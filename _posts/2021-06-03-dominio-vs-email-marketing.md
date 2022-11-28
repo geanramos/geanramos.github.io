@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "A escolha do domínio (TLDs) influencia na entrega de Email Marketing"
-category: email,dominio,email marketing 
-slug: hr emkt
+slug: email-marketing
 custom_js: mouse_coords
 ---
 
