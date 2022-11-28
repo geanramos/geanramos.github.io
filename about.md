@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: Sobre
 ---
 
-This is an example page!
+Esta é uma página de exemplo!
 
-It's very similar to a `post` layout, with the only difference that the publish date is not shown!
+É muito parecido com layout do **post**, com uma única diferença, não aparece a data da publicação!
