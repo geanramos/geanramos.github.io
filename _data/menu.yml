@@ -1,11 +1,13 @@
 entries:
-  - title: me
+  - title: Mídias Sociais
     entries:
-      - title: email
-        url: mailto:riccardo.graziosi97@gmail.com
-      - title: github
-        url: http://github.com/riggraz/
-      - title: "keep in touch: <a href='/newsletter.html'>newsletter</a>, <a href='/feed.xml'>rss feed</a>"
+      - title: Twitter
+        url: https://twitter.com/geanramos
+      - title: Facebook
+        url: http://fb.com/geanramoss
+      - title: Instagram
+        url: http://instag.am/geanramus/
+      - title: "Newslatter: <a href='/newsletter.html'>newsletter</a>, <a href='/feed.xml'>{feed}</a>"
 
-  - title: thoughts
+  - title: Meus Trabalhos
     post_list: true

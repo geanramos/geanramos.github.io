@@ -1,6 +1,6 @@
 title: GEANRAMOS.COM
 email: geancr10@gmail.com
-description: Ideias, pensamento e tudo mais que vir na cabeça.
+description: Apenas mais um Blog bacana para um car*lh*
 baseurl: ""
 url: "https://blog.geanramos.com.br"
 github_username:  geanramos
@@ -11,11 +11,11 @@ favicon: "favicon.png"
 goat_counter: " " # put your GoatCounter name if you want to use GoatCounter analytics
 
 # Build settings
-remote_theme: riggraz/no-style-please
+remote_theme: geanramos/no-style-please
 
 theme_config:
-  appearance: "dark"
-  back_home_text: "home" # customize text for homepage link in post layout
+  appearance: "light"
+  back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%d-%m-%Y" # customize how date is formatted
   show_description: false # show blog description in home page
 
