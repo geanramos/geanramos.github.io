@@ -1,21 +1,21 @@
-title: Gean Ramos
+title: GEANRAMOS.COM
 email: geancr10@gmail.com
-description: riggraz's thoughts
+description: Ideias, pensamento e tudo mais que vir na cabeça.
 baseurl: ""
-url: "https://geanramos.com.br"
+url: "https://blog.geanramos.com.br"
 github_username:  geanramos
 
 permalink: /:slug.html
 
 favicon: "favicon.png"
-goat_counter: "geanramos" # put your GoatCounter name if you want to use GoatCounter analytics
+goat_counter: " " # put your GoatCounter name if you want to use GoatCounter analytics
 
 # Build settings
 remote_theme: riggraz/no-style-please
 
 theme_config:
   appearance: "dark"
-  back_home_text: ".." # customize text for homepage link in post layout
+  back_home_text: "<=" # customize text for homepage link in post layout
   date_format: "%d-%m-%Y" # customize how date is formatted
   show_description: false # show blog description in home page
 
