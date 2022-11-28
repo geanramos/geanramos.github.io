@@ -1,22 +1,22 @@
-title: riggraz
-email: riccardo.graziosi97@gmail.com
+title: Gean Ramos
+email: geancr10@gmail.com
 description: riggraz's thoughts
 baseurl: ""
-url: "https://riggraz.dev"
-github_username:  riggraz
+url: "https://geanramos.com.br"
+github_username:  geanramos
 
 permalink: /:slug.html
 
 favicon: "favicon.png"
-goat_counter: "riggraz" # put your GoatCounter name if you want to use GoatCounter analytics
+goat_counter: "geanramos" # put your GoatCounter name if you want to use GoatCounter analytics
 
 # Build settings
 remote_theme: riggraz/no-style-please
 
 theme_config:
-  appearance: "light"
+  appearance: "dark"
   back_home_text: ".." # customize text for homepage link in post layout
-  date_format: "%Y-%m-%d" # customize how date is formatted
+  date_format: "%d-%m-%Y" # customize how date is formatted
   show_description: false # show blog description in home page
 
 plugins:
