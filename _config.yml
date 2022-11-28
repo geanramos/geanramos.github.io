@@ -14,7 +14,7 @@ goat_counter: " " # put your GoatCounter name if you want to use GoatCounter ana
 remote_theme: geanramos/no-style-please
 
 theme_config:
-  appearance: "light" # can be "light", "dark" or "auto"
+  appearance: "dark" # can be "light", "dark" or "auto"
   back_home_text: "home" # customize text for homepage link in post layout
   date_format: "%d-%m-%Y" # customize how date is formatted
   show_description: false # show blog description in home page

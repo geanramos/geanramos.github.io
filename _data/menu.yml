@@ -7,7 +7,7 @@ entries:
         url: http://fb.com/geanramoss
       - title: Instagram
         url: http://instag.am/geanramus/
-      - title: "Newslatter: <a href='/newsletter.html'>newsletter</a>, <a href='/feed.xml'>{feed}</a>"
+      - title: "<a href='/newsletter.html'>Newsletter</a>: <a href='/feed.xml'>feed</a>"
 
   - title: Meus Trabalhos
     post_list: true
