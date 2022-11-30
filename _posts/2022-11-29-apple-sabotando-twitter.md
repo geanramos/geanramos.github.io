@@ -2,7 +2,7 @@
 layout: post
 title: Apple sabotando Twitter, multa pra Meta e a nova aposta do founder do Waze
 slug: apple-sabotando-twitter
-category: postnews, blog, tecnologia,redes-sociais
+category: tecnologia
 ---
 
 ![post news](https://i1.wp.com/androidfinal.com/wp-content/uploads/2022/11/Ex-CEO-do-Waze-quer-oferecer-uma-alternativa-ao-Twitter-com.jpg?resize=400,150)
