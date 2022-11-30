@@ -1,4 +1,4 @@
 ---
-layout: arquivo
+layout: archive
 title: Arquivo
 ---
