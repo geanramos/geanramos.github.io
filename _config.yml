@@ -1,8 +1,8 @@
 title: GEANRAMOS.COM
 email: geancr10@gmail.com
-description: Apenas mais um Blog bacana para um car*lh*
+description: Apenas mais um Blog bacana para um caralho.
 baseurl: ""
-url: "https://blog.geanramos.com.br"
+url: "https://blog.geanramos.com"
 github_username:  geanramos
 
 permalink: /:slug.html
@@ -14,10 +14,10 @@ goat_counter: "UA-23205651-1" # put your GoatCounter name if you want to use Goa
 remote_theme: geanramos/no-style-please
 
 theme_config:
-  appearance: "dark" # can be "light", "dark" or "auto"
+  appearance: "auto" # can be "light", "dark" or "auto"
   back_home_text: "home" # customize text for homepage link in post layout
   date_format: "%d-%m-%Y" # customize how date is formatted
-  show_description: false # show blog description in home page
+  show_description: escrevendo desde que fui alfabetizado. # show blog description in home page
 
 plugins:
   - jekyll-feed
