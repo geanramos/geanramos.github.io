@@ -2,6 +2,7 @@
 layout: post
 title: "A escolha do domínio (TLDs) influencia na entrega de Email Marketing"
 slug: dominio-influencia-email-marketing
+category: email-mkt
 ---
 
 De acordo com a **SparkPost**, uma das maiores empresas de envio de email do mundo. *A escolha de um domínio (TLD) ou top domain* pode influenciar a entrega de email.
