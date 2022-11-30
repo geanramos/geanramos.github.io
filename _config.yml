@@ -1,6 +1,6 @@
 title: GEANRAMOS.blog
 email: geancr10@gmail.com
-description: Apenas mais um Blog bacana para um caralho.
+description: Futilidades e outras milongas.
 baseurl: ""
 url: "https://blog.geanramos.com"
 github_username:  geanramos
@@ -17,7 +17,7 @@ theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
   back_home_text: "home" # customize text for homepage link in post layout
   date_format: "%d-%m-%Y" # customize how date is formatted
-  show_description: escrevendo desde que fui alfabetizado. # show blog description in home page
+  show_description: # show blog description in home page "false"
 
 plugins:
   - jekyll-feed
