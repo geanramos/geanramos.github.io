@@ -1,5 +1,5 @@
 ---
 layout: arquivo
-which_category: post
+which_category: postnews
 title: Todo sobre: 'Post'
 ---
