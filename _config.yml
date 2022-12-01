@@ -9,8 +9,8 @@ permalink: /:slug.html
 
 
 favicon: "favicon.png"
-imagesurl: "https://blog.geanramos.com/galeria/"
-thumbsurl: "https://blog.geanramos.com/galeria/"
+imagesurl: "https://i1.wp.com/blog.geanramos.com/galeria/"
+thumbsurl: "https://images.weserv.nl/?w=80&h=80&output=jpg&q=70&t=square&url=blog.geanramos.com/galeria/osaka/"
 goat_counter: "UA-23205651-1" # put your GoatCounter name if you want to use GoatCounter analytics
 
 # Build settings
