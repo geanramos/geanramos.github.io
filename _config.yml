@@ -7,7 +7,10 @@ github_username:  geanramos
 
 permalink: /:slug.html
 
+
 favicon: "favicon.png"
+imagesurl: "https://geanramos.github.io/galeria/"
+thumbsurl: "https://images.weserv.nl/?w=80&h=80&output=jpg&q=50&t=square&url=https://geanramos.github.io/galeria/"
 goat_counter: "UA-23205651-1" # put your GoatCounter name if you want to use GoatCounter analytics
 
 # Build settings
