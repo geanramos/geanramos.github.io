@@ -6,5 +6,4 @@ category: foto
 ---
 
 Título #01
-
-{% include image-gallery.html folder="/galeria/osaka" %}
+{% include my-gallery.html folder="osaka" %}
