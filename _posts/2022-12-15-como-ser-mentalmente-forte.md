@@ -1,4 +1,4 @@
---
+---
 layout: post
 title: "Como ser mentalmente forte?"
 slug: mentalmente-forte
