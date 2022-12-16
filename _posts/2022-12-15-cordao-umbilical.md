@@ -8,7 +8,8 @@ category: saude
 > Se o cordão umbilical não fosse cortado, o que aconteceria com o recém-nascido?
 
 ![](https://i1.wp.com/qph.cf2.quoracdn.net/main-qimg-12e0912c7b9c1e286c678a3826f3f2b7-lq?resize=400,225)
-O cordão umbilical está preso à placenta que alimentou o bebê e, quando tudo vai bem, é expelido alguns minutos após o nascimento do bebê.
+
+O **cordão umbilical** está preso à placenta que alimentou o bebê e, quando tudo vai bem, é expelido alguns minutos após o nascimento do bebê.
 
 Às vezes, por escolha ou por tradição, você pode decidir não cortá-lo, em qualquer caso, ele seca e cai sozinho em 3-10 dias 
 
