@@ -1,6 +1,6 @@
 ---
 title: "Tudo tem que ser recíproco"
-date: 2022-12-17T22:38:32-03:00
+date: 2022-12-17T21:15:32-03:00
 tags: [blog]
 ---
 ![enter image description here](https://i1.wp.com/qph.cf2.quoracdn.net/main-qimg-3d36877267e7d522f061c333e18f47aa-lq?resize=400,225)
