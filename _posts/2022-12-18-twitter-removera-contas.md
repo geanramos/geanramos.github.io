@@ -9,7 +9,7 @@ tags: [blog]
 *Contas usadas exclusivamente para divulgação de outras plataformas serão excluídas. Postagem com links para outros perfis externos também serão removidas.*
 
 
-![Logo da empresa Twitter ao lado do perfil do bilionário americano, Elon Musk — Foto: Dado Ruvic/REUTERS](https://img.geanramos.com/twitter-m-a-musk-negotiations.jpg)
+![Logo da empresa Twitter ao lado do perfil do bilionário americano, Elon Musk — Foto: Dado Ruvic/REUTERS](https://i1.wp.com/img.geanramos.com/twitter-m-a-musk-negotiations.jpg?resize=400,225)
 
 O  [Twitter](#twitter)  disse neste domingo (18) que removerá contas criadas exclusivamente com o propósito de promover outras plataformas sociais e conteúdo que contenha links ou nomes de usuário.
 
@@ -56,8 +56,4 @@ O empresário acusou os repórteres de compartilhar informações privadas sobre
 
 [Elon Musk foi à final da Copa e disse que o evento tem recorde de tuítes](#eloncopa). Em sua conta, ele postou vídeos, parabenizou o gol de Messi e disse que o jogo estava  **"superemocionante**". O empresário também revelou que, com o gol da França, o número de tuítes foi o mais alto para uma Copa.  "24.400 tuítes por segundo com o gol da França, o maior da história da Copa do Mundo",  disse.
 
-![Elon Musk vai ao Catar para assistir à final da Copa do Mundo: belo gol da Argentina](https://img.geanramos.com/elon-musk-vai-ao-catar.webp)
-
-
--   [ELON MUSK](#elon-musk)
--   [TWITTER](#twitter)
+![Elon Musk vai ao Catar para assistir à final da Copa do Mundo: belo gol da Argentina](https://i1.wp.com/img.geanramos.com/elon-musk-vai-ao-catar.jpg?resize=400,225)
