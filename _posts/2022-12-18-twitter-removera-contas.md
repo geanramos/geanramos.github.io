@@ -9,7 +9,7 @@ tags: [blog]
 *Contas usadas exclusivamente para divulgação de outras plataformas serão excluídas. Postagem com links para outros perfis externos também serão removidas.*
 
 
-![Logo da empresa Twitter ao lado do perfil do bilionário americano, Elon Musk — Foto: Dado Ruvic/REUTERS](/img.geanramos.com/twitter-m-a-musk-negotiations.jpg)
+![Logo da empresa Twitter ao lado do perfil do bilionário americano, Elon Musk — Foto: Dado Ruvic/REUTERS](https://img.geanramos.com/twitter-m-a-musk-negotiations.jpg)
 
 O  [Twitter](#twitter)  disse neste domingo (18) que removerá contas criadas exclusivamente com o propósito de promover outras plataformas sociais e conteúdo que contenha links ou nomes de usuário.
 
@@ -23,14 +23,14 @@ Junto com a nova política foi divulgada uma lista de redes concorrentes proibid
 -   Post
 -   Nostr
 
-Além dessas, também entra na proibição o uso de  **agregadores de links**, como o linktr.ee entre outros.
+Além dessas, também entra na proibição o uso de  **agregadores de links**, como o **linktr.ee** entre outros.
 
 ## O que se sabe sobre a proibição
 
 A justificativa da empresa para essa nova regra é que o  "Twitter não irá mais permitir divulgação gratuita de outras plataformas sociais", diz o anúncio na página da companhia.
 
 -   Contas usadas exclusivamente para promover conteúdo ou divulgar alguma dessas plataformas proibidas serão excluídas.
--   Postagens como **"me siga no Instagram em @usuario"** ou **"veja meu perfil no facebook/usuario" ** serão excluídas
+-   Postagens como **"me siga no Instagram em @usuario"** ou **"veja meu perfil no facebook/usuario"** serão excluídas
 
 As postagens que violarem essa nova política serão suspensas temporariamente, sendo excluídas definitivamente se houver uma nova infração, segundo a empresa.
 
@@ -56,7 +56,7 @@ O empresário acusou os repórteres de compartilhar informações privadas sobre
 
 [Elon Musk foi à final da Copa e disse que o evento tem recorde de tuítes](#eloncopa). Em sua conta, ele postou vídeos, parabenizou o gol de Messi e disse que o jogo estava  **"superemocionante**". O empresário também revelou que, com o gol da França, o número de tuítes foi o mais alto para uma Copa.  "24.400 tuítes por segundo com o gol da França, o maior da história da Copa do Mundo",  disse.
 
-![Elon Musk vai ao Catar para assistir à final da Copa do Mundo: belo gol da Argentina](//img.geanramos.com/elon-musk-vai-ao-catar.webp)
+![Elon Musk vai ao Catar para assistir à final da Copa do Mundo: belo gol da Argentina](https://img.geanramos.com/elon-musk-vai-ao-catar.webp)
 
 
 -   [ELON MUSK](#elon-musk)
