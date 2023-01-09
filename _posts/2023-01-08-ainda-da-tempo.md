@@ -1,9 +1,8 @@
-
 ---
 title: "Ainda dá tempo"
 date: 2023-01-08
 tags: [blog]
-images: https://images.squarespace-cdn.com/content/v1/5a80eacba9db09c9680c59e5/1589313209828-TTB9ILB9SOHHD2LBGKX9/BEST-114.jpg
+img: https://images.squarespace-cdn.com/content/v1/5a80eacba9db09c9680c59e5/1589313209828-TTB9ILB9SOHHD2LBGKX9/BEST-114.jpg
 ---
 
 
@@ -43,7 +42,7 @@ Se preparando para caminhar até o altar sozinha, **a Sandra teve uma surpresa:*
 
 Apesar de ter borrado a maquiagem de todos os convidados, o resto do casamento foi só alegria. Aos trancos e barrancos, a Rapha descobriu que não existe nada mais gostoso do que a felicidade de quem a gente ama.
 
-Finalizando com a passagem bíblica preferida das duas, _“o amor é paciente,_ **_o amor é bondoso._** _Não inveja, não se vangloria, não se orgulha. Não maltrata, não procura seus interesses, não se ira facilmente, não guarda rancor”._
+> Finalizando com a passagem bíblica preferida das duas, _“o amor é paciente,_ **_o amor é bondoso._** _Não inveja, não se vangloria, não se orgulha. Não maltrata, não procura seus interesses, não se ira facilmente, não guarda rancor”._
 
 
 
