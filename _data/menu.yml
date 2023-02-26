@@ -2,12 +2,12 @@ entries:
   - title: Mídias Sociais
     entries:
       - title: Twitter
-        url: https://twitter.com/geanramos50
+        url: https://twitter.com/geanramos
       - title: Facebook
-        url: http://fb.com/gean.ramos.165
+        url: https://fb.com/geanramoss
       - title: Instagram
-        url: http://instagr.am/geanramos_
-      - title: "<a href='/newsletter.html'>Newsletter</a>: <a href='/feed.xml'>feed</a>"
+        url: https://instagr.am/geanramus
+      - title: "<a href='./newsletter.html'>Newsletter</a>: <a href='./feed.xml'>feed</a>"
 
   - title: Meus Trabalhos
     post_list: true

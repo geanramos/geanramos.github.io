@@ -17,6 +17,3 @@ Ele afirma que a expressão Merry Christmas teve seu primeiro registro no sécul
 > O motivo pelo qual a palavra Merry foi inserida foi para não repetir nenhuma palavra (duas vezes happy ou até duas vezes merry).
 
 **Resumindo:** usa-se bastante **“Merry Christmas”** até hoje por tradição mesmo, mas pode usar happy tranquilamente.
-
-![enter image description here](Twitter.jpg)
-

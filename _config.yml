@@ -9,15 +9,15 @@ permalink: /:slug.html
 
 
 favicon: "favicon.png"
-urlbig: "https://i0.wp.com/blog.geanramos.com"
-urlsmall: "https://images.weserv.nl/?w=400&h=225&output=jpg&q=80&t=square&url=blog.geanramos.com"
+urlbig: "https://i0.wp.com/geanramos.ddns.net/"
+urlsmall: "https://images.weserv.nl/?w=400&h=225&output=jpg&q=80&t=square&url=geanramos.ddns.net"
 goat_counter: "UA-23205651-1" # put your GoatCounter name if you want to use GoatCounter analytics
 
 # Build settings
 remote_theme: geanramos/no-style-please
 
 theme_config:
-  appearance: "auto" # can be "light", "dark" or "auto"
+  appearance: "dark" # can be "light", "dark" or "auto"
   back_home_text: "index.html" # customize text for homepage link in post layout
   date_format: "%d-%m-%Y" # customize how date is formatted
   show_description: true # show blog description in home page

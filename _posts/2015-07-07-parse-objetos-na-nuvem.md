@@ -8,10 +8,6 @@ tags:
   - dev
 ---
 
-Esse artigo foi publicado originalmente no site [Tableless](https://tableless.com.br/parse-objetos-na-nuvem-2/), em 2015.
-Como estou passando meus posts para meu próprio blog, segue abaixo o conteúdo que escrevi :)
-___
-
 Alguns dias atrás eu estava estudando um projeto que deveria apresentar, relacionado a WebApps. Decidi a plataforma da minha apresentação, mas acrescentar algo mais.
 
 Eu tinha lido algumas coisas sobre um banco de dados que traria uma nova perspectiva aos desenvolvedores, facilitando seu acesso e fazendo suas conexões até por JavaScript (coisa que me intrigou bastante até começar a utilizá-lo), possibilitando leitura, gravação e consulta de dados. Foi aí que comecei a estudar sobre o Parse.

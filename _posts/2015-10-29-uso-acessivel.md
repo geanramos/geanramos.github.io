@@ -8,10 +8,6 @@ tags:
   - dev
 ---
 
-Esse artigo foi publicado originalmente no site [GOOGLE.COM/+GEANRAMOS](https://g.co/#uso-acessivel-o-cumprimento-das-premissas-na-web-contemporanea/), em 2015.
-Como estou passando meus posts para meu próprio blog, segue abaixo o conteúdo que escrevi :)
-___
-
 Há muito tempo venho pensado sobre acessibilidade nos dias de hoje. Notei que muitos dos sites, atualmente, sejam de comércio eletrônico ou não, são, em parte, inacessíveis a usuários com necessidades especiais.
 
 A parte mais intrigante é que, se pararmos pra pensar, todos temos alguma necessidade. Seja algo relacionado ao tempo que podemos gastar em uma conexão a um site, ou ao design de uma página que nos prejudica por não ser adaptável, ou ainda, ao tráfego de dados por uma conexão ruim e até mesmo, como disse uma vez nosso conhecido Diego Eis: **“Acessibilidade é tudo sobre a necessidade das pessoas“**, e realmente é.

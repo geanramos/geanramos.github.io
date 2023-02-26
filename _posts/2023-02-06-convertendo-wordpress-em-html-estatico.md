@@ -71,4 +71,4 @@ Isso inclui funcionalidades oferecidas por WooCommerce, bbPress, BuddyPress e pl
 
 Por enquanto, o fervor do JAMstack é limitado principalmente ao público de desenvolvedores DIY que procura hospedar sites mais simples.
 
-Tags: [JAMstack](https://wptavern.com/tag/jamstack) , [Netlify](https://wptavern.com/tag/netlify)
+Tags: JAMstack , Netlify
