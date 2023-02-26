@@ -9,7 +9,7 @@ permalink: /:slug.html
 
 
 favicon: "favicon.png"
-urlbig: "https://i0.wp.com/geanramos.ddns.net/"
+urlbig: "https://i0.wp.com/geanramos.ddns.net"
 urlsmall: "https://images.weserv.nl/?w=400&h=225&output=jpg&q=80&t=square&url=geanramos.ddns.net"
 goat_counter: "UA-23205651-1" # put your GoatCounter name if you want to use GoatCounter analytics
 
