@@ -1,50 +1,27 @@
-title: GEANRAMOS.blog
-email: geancr10@gmail.com
-description: Futilidades e outras milongas.
-baseurl: ""
-url: "https://geanramos.ddns.net"
-github_username:  geanramos
+title: no style, please! # name of the site
+author: Riccardo Graziosi # name of site's author
+email: riccardo.graziosi97@gmail.com # email of site's author
+url: https://riggraz.dev # root address of the site
+baseurl: "/no-style-please" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+description: > # description of the site (multiple lines allowed)
+  A (nearly) no-CSS, fast, minimalist Jekyll theme.
 
 permalink: /:slug.html
 
+favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
+# goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
 
-favicon: "favicon.png"
-urlbig: "https://i0.wp.com/geanramos.ddns.net"
-urlsmall: "https://images.weserv.nl/?w=400&h=225&output=jpg&q=80&t=square&url=geanramos.ddns.net"
-goat_counter: "UA-23205651-1" # put your GoatCounter name if you want to use GoatCounter analytics
-
-# Build settings
-remote_theme: geanramos/no-style-please
+theme: no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
 
 theme_config:
-  appearance: "dark" # can be "light", "dark" or "auto"
-  back_home_text: "index.html" # customize text for homepage link in post layout
-  date_format: "%d-%m-%Y" # customize how date is formatted
-  show_description: true # show blog description in home page
+  appearance: "auto" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: false # show blog description in home page
+
+sass:
+  style: :compressed
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-include:
-  - _pages
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
