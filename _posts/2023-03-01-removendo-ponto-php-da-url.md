@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Removendo a extensão .php das URLs com .htaccess
+slug: 
+categoria: php
 ---
 
 Crie um arquivo e salve-o com o nome: **.htaccess** , ele deve ficar na raiz do site. Copie e cole o código abaixo:
