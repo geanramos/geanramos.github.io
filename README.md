@@ -1,6 +1,6 @@
 
 # sem estilo, por favor!
-traduzido para **pt_BR** por [https://github.com/geanramos](@geanramos)
+traduzido para **pt_BR** por  [@geanramos](https://github.com/geanramos)
 
 [![](https://i.imgur.com/gsYDjHP.pngwq)](https://i.imgur.com/gsYDjHP.png)[Um tema Jekyll](https://jekyllrb.com/) (quase) sem CSS, rápido e minimalista . Inspirado no [site da elly](http://tilde.town/~elly/) , criado expressamente para [o meu blog pessoal](https://riggraz.dev/) .
 
