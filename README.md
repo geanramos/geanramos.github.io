@@ -2,11 +2,11 @@
 # sem estilo, por favor!
 traduzido para **pt_BR** por  [@geanramos](https://github.com/geanramos)
 
-[![](https://i.imgur.com/gsYDjHP.pngwq)](https://i.imgur.com/gsYDjHP.png)[Um tema Jekyll](https://jekyllrb.com/) (quase) sem CSS, rápido e minimalista . Inspirado no [site da elly](http://tilde.town/~elly/) , criado expressamente para [o meu blog pessoal](https://riggraz.dev/) .
+<img src="https://i.imgur.com/gsYDjHP.pngwq" width="64" align="left" /> [Um tema Jekyll](https://jekyllrb.com/) (quase) sem CSS, rápido e minimalista . Inspirado no [site da elly](http://tilde.town/~elly/) , criado expressamente para [o meu blog pessoal](https://riggraz.dev/) .
 
-### [](#try-the-demo-out)[Experimente a demonstração!](https://riggraz.dev/no-style-please/)
+<h3 align="center"><a href="https://riggraz.dev/no-style-please/">veja a demonstração!</a></h3>
 
-[![](https://i.imgur.com/4eqXO4G.png)](https://i.imgur.com/4eqXO4G.png)
+![](https://i.imgur.com/4eqXO4G.png)
 
 ## [](#features)Características
 
