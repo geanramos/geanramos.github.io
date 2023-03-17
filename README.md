@@ -1,80 +1,83 @@
-# no style, please!
 
-<img src="https://raw.githubusercontent.com/riggraz/no-style-please/master/logo.png" width="64" align="left" />A (nearly) no-CSS, fast, minimalist [Jekyll](https://jekyllrb.com/) theme.
-Inspired by [elly's site](http://tilde.town/~elly/), expressly created for [my personal blog](https://riggraz.dev/).
+# sem estilo, por favor!
+traduzido para **pt_BR** por [https://github.com/geanramos](@geanramos)
 
-<h3 align="center"><a href="https://riggraz.dev/no-style-please/">Try the demo out!</a></h3>
+[![](https://i.imgur.com/gsYDjHP.pngwq)](https://i.imgur.com/gsYDjHP.png)[Um tema Jekyll](https://jekyllrb.com/) (quase) sem CSS, rápido e minimalista . Inspirado no [site da elly](http://tilde.town/~elly/) , criado expressamente para [o meu blog pessoal](https://riggraz.dev/) .
 
-<img src="https://raw.githubusercontent.com/riggraz/no-style-please/master/_screenshots/featured-image.png" />
+### [](#try-the-demo-out)[Experimente a demonstração!](https://riggraz.dev/no-style-please/)
 
-## Features
+[![](https://i.imgur.com/4eqXO4G.png)](https://i.imgur.com/4eqXO4G.png)
 
-* Fast (**1kb of CSS!** For more information on performance and more, see [Page Speed Insights report](https://raw.githubusercontent.com/riggraz/no-style-please/master/_screenshots/page-speed-insights-report.png) and [Lighthouse report](https://raw.githubusercontent.com/riggraz/no-style-please/master/_screenshots/lighthouse-report.png))
-* Light, dark and auto modes
-* Responsive
-* Content first (typography optimized for maximum readability)
-* SEO optimized (uses [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag))
-* RSS feed (uses [Jekyll Feed](https://github.com/jekyll/jekyll-feed))
-* Fully compatible with [GitHub Pages](https://pages.github.com/) (see [GitHub Pages installation](#github-pages-installation))
+## [](#features)Características
 
-## Installation
+-   Rápido ( **1kb de CSS!** Para obter mais informações sobre desempenho e muito mais, consulte [o relatório Page Speed ​​Insights](https://i.imgur.com/ob7e9zh.png) e [o relatório Lighthouse](https://i.imgur.com/ob7e9zh.png) )
+-   Modos claro, escuro e automático
+-   Responsivo
+-   Conteúdo primeiro (tipografia otimizada para máxima legibilidade)
+-   SEO otimizado (usa [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag) )
+-   RSS feed (usa o [Jekyll Feed](https://github.com/jekyll/jekyll-feed) )
+-   Totalmente compatível com o [GitHub Pages](https://pages.github.com/) (consulte [a instalação do GitHub Pages](#github-pages-installation) )
 
-If you haven't already created your blog using Jekyll, follow the [instructions](https://jekyllrb.com/docs/) to do so from Jekyll's documentation.
+## [](#installation)Instalação
 
-NOTE: if you are using Jekyll with GitHub Pages, see the [GitHub Pages installation section](#github-pages-installation).
+Se você ainda não criou seu blog usando o Jekyll, siga as [instruções](https://jekyllrb.com/docs/) para fazê-lo na documentação do Jekyll.
 
-Then, to style your blog with this theme, add this line to your Jekyll site's `Gemfile`:
+NOTA: se você estiver usando o Jekyll com o GitHub Pages, consulte a [seção de instalação do GitHub Pages](#github-pages-installation) .
 
-```ruby
+Em seguida, para estilizar seu blog com este tema, adicione esta linha ao seu site Jekyll `Gemfile`:
+
 gem "no-style-please"
-```
 
-And add this line to your Jekyll site's `_config.yml`:
+E adicione esta linha ao seu site Jekyll `_config.yml`:
 
-```yaml
 theme: no-style-please
+
+E então execute:
+
+```
+$ bundle
+
 ```
 
-And then execute:
+Ou instale você mesmo como:
 
-    $ bundle
+```
+$ gem install no-style-please
 
-Or install it yourself as:
+```
 
-    $ gem install no-style-please
+### [](#github-pages-installation)Instalação do GitHub Pages
 
-### GitHub Pages installation
+Se você quiser usar este tema para o site do Jekyll implantado no [GitHub Pages](https://pages.github.com/) , siga as instruções [nesta página](https://docs.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll#adding-a-theme) .
 
-If you want to use this theme for your Jekyll's site deployed on [GitHub Pages](https://pages.github.com/), follow the instructions on [this page](https://docs.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll#adding-a-theme).
+## [](#usage)Uso
 
-## Usage
+Você pode editar `_config.yml`o arquivo para personalizar seu blog. Você pode alterar coisas como o nome do blog, o autor, a aparência do tema (claro, escuro ou automático), como as datas são formatadas etc. Os campos personalizáveis ​​devem ser fáceis de entender. Ainda assim, `_config.yml`contém alguns comentários para ajudar você a entender o que cada campo faz.
 
-You can edit `_config.yml` file to customize your blog. You can change things such as the name of the blog, the author, the appearance of the theme (light, dark or auto), how dates are formatted, etc. Customizable fields should be straightforward to understand. Still, `_config.yml` contains some comments to help you understand what each field does.
+Para maior personalização (por exemplo, layout, CSS), consulte a [documentação oficial do Jekyll](https://jekyllrb.com/docs/themes/#overriding-theme-defaults) sobre personalização de temas baseados em gem.
 
-For further customization (e.g. layout, CSS) see the [official Jekyll's documentation](https://jekyllrb.com/docs/themes/#overriding-theme-defaults) on customizing gem-based themes.
+### [](#customize-the-menu)Personalize o cardápio
 
-### Customize the menu
+Para adicionar/editar/excluir entradas do menu principal, você deve editar o `menu.yml`arquivo dentro `_data`da pasta. Através desse arquivo você pode definir a estrutura do menu. Dê uma olhada na configuração padrão para ter uma ideia de como ela funciona e continue lendo para uma explicação mais abrangente.
 
-In order to add/edit/delete entries from the main menu, you have to edit the `menu.yml` file inside `_data` folder. Through that file you can define the structure of the menu. Take a look at the default configuration to get an idea of how it works and read on for a more comprehensive explanation.
+O `menu.yml`arquivo aceita os seguintes campos:
 
-The `menu.yml` file accepts the following fields:
+-   `entries`definir uma nova lista não ordenada que conterá as entradas do menu
+-   cada entrada é marcada por um `-`no início da linha
+-   cada entrada pode ter os seguintes atributos:
+    -   `title`, que define o texto a ser renderizado para esta entrada de menu ( **NB: você também pode especificar HTML!** )
+    -   `url`, que pode ser usado para especificar um URL para esta entrada. Se não for especificado, `title`será processado como está; caso contrário, `title`será cercado por uma tag de link apontando para o URL especificado. Observe que a URL pode ser relativa ou absoluta. Observe também que você pode obter o mesmo resultado colocando uma `<a>`tag no `title`campo.
+    -   `post_list`, que pode ser definido para `true`ou para um objeto. Se for verdadeiro, a entrada terá uma lista de todas as postagens como subentradas. Isso é usado para renderizar sua lista de postagens. Se você deseja personalizar quais postagens renderizar (por exemplo, por categoria), pode adicionar um ou mais dos seguintes atributos em `post_list`:
+        -   `category`, que pode ser definido como uma cadeia de caracteres. Ele é usado para renderizar apenas uma lista de postagens da categoria especificada. Se você não definir, as postagens de todas as categorias serão renderizadas.
+        -   `limit`, que pode ser definido como um número. Ele especifica o número de postagens a serem exibidas. Se não for definido, todas as postagens serão renderizadas.
+        -   `show_more`, o que pode ser verdade. Se for true e se o número de postagens a serem exibidas for maior que o especificado `limit`, renderize um link para outra página. Para especificar a URL e o texto do link, você pode definir `show_more_url`e `show_more_text`atributos, que estão documentados abaixo.
+        -   `show_more_url`, que pode ser uma string. Ele especifica a URL para o link mostrar mais. Use somente se for `show_more`verdadeiro. Isso geralmente redirecionará para uma página contendo todas as postagens, que você pode criar facilmente usando uma página de arquivo (consulte a seção [criar páginas de arquivo](#create-archive-pages) )
+        -   `show_more_text`, que pode ser uma string. Ele especifica o texto para o link mostrar mais. Use somente se for `show_more`verdadeiro.
+    -   `entries`, sim, você pode ter entradas dentro de entradas. Desta forma, você pode criar sublistas aninhadas!
 
-- `entries` define a new unordered list that will contain menu entries
-- each entry is marked by a `-` at the beginning of the line
-- each entry can have the following attributes:
-    - `title`, which defines the text to render for this menu entry (**NB: you can also specify HTML!**)
-    - `url`, which can be used to specify an URL for this entry. If not specified, `title` will be rendered as-is; otherwise `title` will be sorrounded by a link tag pointing to the specified URL. Note that the URL can either be relative or absolute. Also note that you can get the same result by placing an ```<a>``` tag in the `title` field.
-    - `post_list`, which can be set either to `true` or to an object. If it is true, the entry will have a list of all posts as subentries. This is used to render your post list. If you want to customize which posts to render (e.g. by category), you can add one or more of the following attributes under `post_list`:
-        - `category`, which can be set to a string. It is used to render a list of posts of the specified category only. If you don't set it, then posts of all categories will be rendered.
-        - `limit`, which can be set to a number. It specifies the number of posts to show. If not set, all posts will be rendered.
-        - `show_more`, which can be true. If it is true and if the number of posts to show is greater than the specified `limit`, render a link to another page. To specify the URL and the text of the link, you can set `show_more_url` and `show_more_text` attributes, which are documented below.
-        - `show_more_url`, which can be a string. It specifies the URL for the show more link. Use only if `show_more` is true. This will usually redirect to a page containing all posts, which you can easily create using an archive page (see [create archive pages](#create-archive-pages) section)
-        - `show_more_text`, which can be a string. It specifies the text for the show more link. Use only if `show_more` is true.
-    - `entries`, yes, you can have entries inside entries. In this way you can create nested sublists!
+### [](#create-archive-pages)Criar páginas de arquivo
 
-### Create archive pages
-
-A so-called archive page is a page that shows a list of posts (see [this](https://riggraz.dev/no-style-please/all-posts) for an example). You can create an archive page by creating a page and putting the following frontmatter:
+A chamada página de arquivo é uma página que mostra uma lista de postagens (veja [um](https://riggraz.dev/no-style-please/all-posts) exemplo). Você pode criar uma página de arquivo criando uma página e colocando o seguinte frontmatter:
 
 ```
 ---
@@ -82,42 +85,41 @@ layout: archive
 title: The title of the page here
 which_category: name-of-category
 ---
+
 ```
 
-`which_category` is optional: if you don't put it, then all posts of the blog will be listed; on the other hand, if you specify a category, only posts of that category will be shown.
+`which_category`é opcional: se você não colocar, todos os posts do blog serão listados; por outro lado, se você especificar uma categoria, apenas os posts dessa categoria serão exibidos.
 
-This feature is particularly useful if used together with the `show_more` attribute in the menu. For example, if you want to limit the number of posts shown in the home page to 5 but add a link to view them all, then you can create an archive page using the method showed above and link to it using the `show_more_url` attribute in `menu.yml`. See [this example](https://github.com/riggraz/no-style-please/blob/master/_data/menu.yml) if you're in doubt.
+Esse recurso é particularmente útil se usado junto com o `show_more`atributo no menu. Por exemplo, se você deseja limitar o número de postagens mostradas na página inicial para 5, mas adicionar um link para visualizá-las todas, então você pode criar uma página de arquivo usando o método mostrado acima e vinculá-la usando o atributo `show_more_url`em `menu.yml`. Veja [este exemplo](https://github.com/riggraz/no-style-please/blob/master/_data/menu.yml) se estiver em dúvida.
 
-### Customize the index page
+### [](#customize-the-index-page)Personalize a página de índice
 
-The `index.md` page should use layout `home`, which is the layout that displays the menu. If you want to have some content after the menu, you can just add that content in the `index.md` file, and it will automatically show under the menu.
+A `index.md`página deve usar layout `home`, que é o layout que exibe o menu. Se você quiser ter algum conteúdo após o menu, basta adicionar esse conteúdo no `index.md`arquivo e ele será exibido automaticamente no menu.
 
-Another thing you can do to customize the index page is show the description of your blog between the title and the menu. To do this, just edit `_config.yml` and change `theme_config.show_description` to `true`.
+Outra coisa que você pode fazer para personalizar a página de índice é mostrar a descrição do seu blog entre o título e o menu. Para fazer isso, basta editar `_config.yml`e alterar `theme_config.show_description`para `true`.
 
-### Pro tips
+### [](#pro-tips)dicas profissionais
 
-#### Dark mode for images
+#### [](#dark-mode-for-images)Modo escuro para imagens
 
-This theme provides dark mode by inverting all colors of light mode throught the CSS `invert()` function. This approach would also invert the color of all images, but, since this is not the behaviour one would expect, images are not inverted by default.
+Este tema fornece o modo escuro invertendo todas as cores do modo claro através da `invert()`função CSS. Essa abordagem também inverteria a cor de todas as imagens, mas, como esse não é o comportamento esperado, as imagens não são invertidas por padrão.
 
-However, if you would like to force the color inversion on a specific image you can do so by applying `class="ioda"` to that image ("ioda" stands for "invert on dark appearance"). See the image in the [overview post](https://github.com/riggraz/no-style-please/blob/master/_posts/2020-07-07-overview-post.md) for an example of this approach. Note that color inversion will take place only when the theme has dark appearance!
+No entanto, se você quiser forçar a inversão de cores em uma imagem específica, pode fazê-lo aplicando `class="ioda"`a essa imagem ("ioda" significa "inverter na aparência escura"). Veja a imagem na [postagem de visão geral](https://github.com/riggraz/no-style-please/blob/master/_posts/2020-07-07-overview-post.md) para obter um exemplo dessa abordagem. Observe que a inversão de cores ocorrerá apenas quando o tema tiver uma aparência escura!
 
-For example, if you have a black and white image it could make sense to invert it in dark mode. On the other hand, a colorful image will probably look bad if inverted.
+Por exemplo, se você tiver uma imagem em preto e branco, pode fazer sentido invertê-la no modo escuro. Por outro lado, uma imagem colorida provavelmente ficará ruim se for invertida.
 
-## Contributing
+## [](#contributing)Contribuindo
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/riggraz/no-style-please. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Relatórios de bugs e solicitações pull são bem-vindos no GitHub em [https://github.com/riggraz/no-style-please](https://github.com/riggraz/no-style-please) . Este projeto pretende ser um espaço seguro e acolhedor para colaboração, e espera-se que os colaboradores sigam o código de conduta [do Pacto do Colaborador](http://contributor-covenant.org/) .
 
-## Development
+## [](#development)Desenvolvimento
 
-To set up your environment to develop this theme, run `bundle install`.
+Para configurar seu ambiente para desenvolver este tema, execute `bundle install`.
 
-Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
+Seu tema é configurado como um site Jekyll normal! Para testar seu tema, execute `bundle exec jekyll serve`e abra seu navegador em `http://localhost:4000`. Isso inicia um servidor Jekyll usando seu tema. Adicione páginas, documentos, dados, etc. normalmente para testar o conteúdo do seu tema. À medida que você faz modificações em seu tema e em seu conteúdo, seu site será regenerado e você deverá ver as alterações no navegador após uma atualização, como de costume.
 
-When your theme is released, only the files in `_layouts`, `_includes`, `_sass` and `assets` tracked with Git will be bundled.
-To add a custom directory to your theme-gem, please edit the regexp in `no-style-please.gemspec` accordingly.
+Quando seu tema for lançado, apenas os arquivos em `_layouts`, `_includes`e rastreados com Git serão agrupados. Para adicionar um diretório personalizado ao seu tema-gem, edite o regexp de acordo.`_sass``assets``no-style-please.gemspec`
 
-## License
+## [](#license)Licença
 
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
+O tema está disponível como código aberto sob os termos da [licença MIT](https://opensource.org/licenses/MIT) .
