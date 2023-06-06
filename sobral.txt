@@ -1,0 +1,1146 @@
+
+
+
+   
+
+
+
+ 
+<!doctype html> 
+<html lang="pt-br" class="_1000">
+<head> 
+	<meta charset="utf-8" /> 
+    <title>Comunidade Sobral de Tráfego</title> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+	 
+    <meta name="classification" content="Comunidade Sobral de Tráfego" />
+    <meta name="Description" content="Chegou a hora de dominar de vez a Gestão de Tráfego e ganhar dinheiro com anúncios online." />
+    <meta name="Keywords" content="" />
+    <meta name="robots" content="index, follow">
+    <meta name="GOOGLEBOT" content="index, follow, all" />
+    <meta name="author" content="" />
+    <meta name="webmaster" content="" />
+    <meta name="doc-class" content="Completed" />
+    <meta name="doc-rights" content="Public" />
+   	<base href="https://pedrosobral.com.br/comunidade-sobral-trafego/" />
+	
+	<link rel="icon" type="image/png" href="https://pedrosobral.com.br/comunidade-sobral-trafego/media/img/favicon.png?2023080220013" />  
+    
+	<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+	<link rel="dns-prefetch" href="//www.googletagmanager.com">
+	<link rel="dns-prefetch" href="//use.typekit.net">
+    
+    <meta name="theme-color" content="">
+	<meta name="apple-mobile-web-app-status-bar-style" content="">
+	<meta name="msapplication-navbutton-color" content="">
+    
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">		
+      
+    <link rel="stylesheet" type="text/css" href="css/estilos.css?2023080220013" />
+	<link rel="stylesheet" type="text/css" href="css/pedroSobral.css?2023080220013" /> 
+	<link rel="stylesheet" type="text/css" href="css/splide.min.css?2023080220013" /> 
+	<link rel="stylesheet" type="text/css" href="css/vendas2023.css?2023080220013" /> 
+     
+    <meta property="og:locale" content="pt_br" />
+	<meta property="og:title" content="Comunidade Sobral de Tráfego" />
+	<meta property="og:url" content="https://pedrosobral.com.br/comunidade-sobral-trafego/" />
+	<meta property="og:image" content="https://pedrosobral.com.br/comunidade-sobral-trafego/media/img/compartilhaVendasCST.jpg?2023080220013" /> 
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta property="og:image:width" content="1200">
+	<meta property="og:image:height" content="700">
+	<meta property="og:description" content="Chegou a hora de dominar de vez a Gestão de Tráfego e ganhar dinheiro com anúncios online." />
+	<meta property="og:type" content="website" />
+	<meta property="og:site_name" content="Comunidade Sobral de Tráfego" />
+	
+	<script type='text/javascript' src="js/jquery.js?2023080220013"></script>
+	<script type='text/javascript' src="js/config.js?2023080220013"></script>
+	<script type='text/javascript' src="js/splide.js?2023080220013"></script>
+	<script type='text/javascript' src="js/countdown.js?2023080220013"></script>
+	<script type='text/javascript' src="js/vendas2023.js?2023080220013"></script>
+	
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-TPVCGHZ');</script>
+	<!-- End Google Tag Manager --> 
+	
+	<script>
+	(function(h,e,a,t,m,p) {
+	m=e.createElement(a);m.async=!0;m.src=t;
+	p=e.getElementsByTagName(a)[0];p.parentNode.insertBefore(m,p);
+	})(window,document,'script','https://u.heatmap.it/log.js');
+	</script>
+	<meta name="google-site-verification" content="uWe_u23X39lryr9bjEV92tJr9sl13Y99s-zTQjf6CvI" />
+</head>
+	
+<body class="vendas2023 comDesconto  ">	
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TPVCGHZ"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	<main>	
+			
+		<section class="CTAFlutuante">
+			<div class="centro">
+								
+				 
+					<h2 class="destaque"><em class="desktop">O desconto de <b>500 reais é por tempo limitado! </b></em><em class="mobile">O desconto de <b>500 reais é por tempo limitado! </b></em></h2>
+						
+												<a href="https://pay.hotmart.com/R8719909E?off=t55qlt15&checkoutMode=10" target="_blank" class="botaoCTA"><b class="desktop">Quero minha vaga agora!</b><b class="mobile">Garantir minha vaga</b></a> 
+				
+				
+				
+			</div><!-- centro -->
+		</section><!-- CTAFlutuante -->  
+
+        <section class="topo">		
+            <div class="centro">
+                <h2 class="logo" alt="Comunidade Sobral de Tráfego" title="Comunidade Sobral de Tráfego">
+                    <img src="img/vendas05-23/logo.svg?2023080220013" alt="">
+                </h2>
+
+                <h1>Chegou a hora de dominar de vez a Gestão de Tráfego e <b>ganhar dinheiro com anúncios online.</b></h1> 
+                
+                <div class="video">
+                    <div class="videoFundo"></div>						
+					<div class='videoWrapper'></div>
+					<div class="thumb" embed="NPZVq2YXfSQ">
+						<img src="img/vendas05-23/thumb-video-hero.webp?2023080220013" alt="thumbnail">
+					</div>
+                </div><!--video-->
+
+                <p>Tudo que você precisa para <b>faturar R$10 mil por mês como gestor de tráfego</b> ou <b>aumentar exponencialmente as vendas do seu negócio</b>.</p>
+
+                <a href="https://pay.hotmart.com/R8719909E?off=t55qlt15&checkoutMode=10" target="_blank" class="botaoCTA"><b>FAZER MINHA INSCRIÇÃO NA COMUNIDADE SOBRAL</b></a>
+
+				<h3><b>APROVEITE!</b> DE <span>R$ 1997,00</span> POR <em>R$ 1.497,00</em> POR <b>TEMPO LIMITADO</b></h3>				 
+                <div class="avisoComprasegura">
+                    <em>Compra 100% segura! Receba seu acesso imediatamente após confirmação do pagamento.</em>
+                    <img src="img/vendas05-23/formas-de-pagamento.svg?2023080220013" alt="Formas de Pagamento">
+                </div><!-- avisoComprasegura-->
+
+                <div class="conhecaComunidade">
+                    <span>Conheça a Comunidade Sobral em detalhes</span>
+                </div>
+            </div>
+        </section><!-- topo -->	
+
+        <section class="comunidadeSobre">
+			<div class="centro">
+				<h2>O que é a Comunidade Sobral de Tráfego?</h2>
+				<p class="texto">A Comunidade Sobral é o único lugar que reúne ABSOLUTAMENTE TUDO que você precisa para <b>aprender Gestão de Tráfego e ter uma tonelada de resultados com anúncios online:</b></p>
+
+				<ul>
+					<li>
+						<div class="icone iconePasso"></div>
+						<h3>Conteúdo passo a passo</h3>
+						<p>para todos os níveis, sobre ferramentas, carreira, estratégias e habilidades complementares.</p>
+					</li>
+					<li>
+						<div class="icone iconeMembros"></div>
+						<h3>Comunidade de membros ativa</h3>
+						<p>para você tirar suas dúvidas, ver o que está funcionando e receber apoio individualizado.</p>
+					</li>
+					<li>
+						<div class="icone iconeAcelerador"></div>
+						<h3>Aceleradores de jornada</h3>
+						<p>que vão facilitar seu aprendizado e te posicionar como um gestor de tráfego respeitado no mercado.</p>
+					</li>
+				</ul>
+			</div><!-- centro-->
+        </section><!-- comunidadeSobre -->
+
+		<section class="paraQuem">
+			<div class="centro">
+				<h2>Para quem é a Comunidade?</h2>
+
+				<div class="topicos">
+					<p>Para todos que querem fazer Gestão de Tráfego (<b>seja para o seu próprio negócio</b>, ou <b>para fazer disso uma nova profissão</b>).</p>
+					<ul>
+						<li>Quem deseja prestar serviço para outras empresas e faturar <b>R$10 mil por mês ou mais como gestor de tráfego</b>.</li>
+						<li><b>Donos de negócio que querem aumentar suas vendas</b> com anúncios online ou treinar alguém para fazer isso.</li>
+						<li><b>Pessoas que queiram usar a internet para vender produtos digitais ou físicos</b> como afiliado, através de dropshipping ou de qualquer outra maneira.</li>
+					</ul>
+				</div><!--topicos-->
+
+				<ul class="depoimentosPedro">
+					<li>
+						<figure><img src="img/vendas05-23/foto-iniciante.webp?2023080220013" alt="Pedro Sobral - Iniciante"></figure>
+						<h3>“Eu não sei nem criar uma campanha, a Comunidade é pra mim?”</h3>
+						<p>Só se você quiser começar do jeito certo e evoluir mais rápido do que todo mundo. 😎</p>
+					</li>
+
+					<li>
+						<figure><img src="img/vendas05-23/foto-avancado.webp?2023080220013" alt="Pedro Sobral - Avançado"></figure>
+						<h3>“E pra mim, que já faço tráfego há anos?”</h3>
+						<p>Só se você quiser faturar mais do que nunca! 🔥</p>
+					</li>
+				</ul>
+
+				<a href="https://pay.hotmart.com/R8719909E?off=t55qlt15&checkoutMode=10" target="_blank" class="botaoCTA"><b>QUERO ENTRAR PARA A COMUNIDADE!</b></a>
+			</div><!-- centro -->
+		</section><!--paraQuem-->
+
+		<section class="comunidadeDentro">
+			<div class="topo">
+				<h2>A comunidade por dentro</h2>
+			</div> <!-- topo -->
+
+			<div class="centro">
+				<h3>Saber usar o gerenciador de anúncios é importante, mas não o suficiente.</h3>
+				<p>Sim, você precisa saber apertar os botões no gerenciador de anúncios das grandes ferramentas (como Google e Meta, por exemplo). <b>Mas não se engane: para ter resultado de verdade e sair na frente de todos os seus concorrentes, você precisa aprender a PENSAR</b>. A grande verdade é que, se você não dominar habilidades que vão além do gerenciador e se não estiver em contato com outros gestores, seus resultados vão ser muito limitados.
+				<br><br>
+				<b>A Comunidade não é só um conjunto de aulinhas ou mesmo um grupo de membros, porque isso não bastaria para preparar você para o campo de batalha.</b>
+				<br><br>
+				<em>Ela é um ecossistema com TUDO que você vai precisar ao longo da jornada para faturar alto com anúncios online.</em>
+				</p>
+							</div><!-- centro-->
+		</section><!-- comunidadeDentro-->
+
+		<section class="modulosCurso">
+			<div class="centro">
+				<div class="textoPrincipal">
+					<h2>Curso Subido de Tráfego:</h2>
+					<h3>um show à parte só para quem é da Comunidade.</h3>
+					<p>Mais de 100 aulas diretas ao ponto que vão pegar você pela mão - mesmo que você seja completamente iniciante - e te transformar em um profissional com conhecimentos avançados de tráfego pago.<br><br>Você está prestes a entrar na formação mais completa do mercado quando o assunto é anúncios online, com aulas que vão desde o que é tráfego até técnicas avançadas de otimização. E o melhor: você vai poder assistir quando e quantas vezes quiser dentro do período de acesso de 1 ano.</p>
+				</div>
+
+				<figure><img src="img/vendas05-23/mockup-curso-subido.webp?2023080220013" alt="Curso Subido de Tráfego"></figure>
+				
+							</div><!-- centro -->
+		</section><!-- modulosCurso-->
+
+		<section class="conteudos">
+			<div class="centro">
+				<h2>Na prática, é isso que “tonelada de conteúdo” significa:</h2>
+				<p>Confira todos os cursos que você terá acesso:</p>
+
+				<div class="splide splideCursos">
+					<div class="splide__track">
+						<ul class="splide__list">
+							
+							<li class="splide__slide"><img src="img/vendas05-23/curso-subido.webp?2023080220013" alt="Curso Subido de Tráfego"></li>
+							<li class="splide__slide"><img src="img/vendas05-23/curso-analytics4.webp?2023080220013" alt="Curso de Google Analytics"></li>
+							<li class="splide__slide"><img src="img/vendas05-23/curso-tag-manager.webp?2023080220013" alt="Curso de Google Tag Manager"></li>
+							<li class="splide__slide"><img src="img/vendas05-23/curso-contingencia.webp?2023080220013" alt="Como Evitar Bloqueios e Contingência"></li>
+							<li class="splide__slide"><img src="img/vendas05-23/curso-ecommerce.webp?2023080220013" alt="Tráfego para E-Commerce"></li>
+							<li class="splide__slide"><img src="img/vendas05-23/curso-fontes-alternativas.webp?2023080220013" alt="Fontes Alternativas de Tráfego"></li>										
+							<li class="splide__slide"><img src="img/vendas05-23/curso-lgpd.webp?2023080220013" alt="Curso de Lei Geral de Proteção de Dados"></li>
+							
+							<li class="splide__slide"><img src="img/vendas05-23/curso-prospecccao.webp?2023080220013" alt="Curso Subido de Prospecção"></li>
+							
+							<li class="splide__slide"><img src="img/vendas05-23/curso-looker.webp?2023080220013" alt="Curso de Looker Studio"></li>
+							<li class="splide__slide"><img src="img/vendas05-23/curso-negocios-locais.webp?2023080220013" alt="Curso de Tráfego para Negócios Locais"></li>
+						</ul>
+					</div>
+				</div><!-- splide -->
+
+			</div><!-- centro-->
+			<a href="https://pay.hotmart.com/R8719909E?off=t55qlt15&checkoutMode=10" target="_blank" class="cta"><b>ENTRAR COM R$ 500 DE DESCONTO</b></a>
+		</section><!-- conteudos -->
+		
+		<section class="ondeAcessar">			
+			<ul>
+				<li>
+					<div class="centro">
+						<figure><img src="img/vendas05-23/mockup-comunidade.webp?2023080220013" alt=""></figure>
+						<div class="texto">
+							<span>+ de 38 mil membros</span>
+							<h2>Comunidade no Facebook</h2>
+							<p>Tire dúvidas, aprenda e compartilhe conhecimentos e experiências com <b>a panelinha de tráfego mais querida do Brasil!</b></p>
+						</div>
+					</div><!-- centro-->
+				</li> 
+				<li>
+					<div class="centro">
+						<div class="texto">
+							<span>BEM-VINDOS, BEM-VINDOS...</span>
+							<h2>O passado, o presente e o futuro das lives que mudaram o tráfego no Brasil, a um clique de distância.</h2>
+							<p>Tenha acesso à gravação de todas as 240 lives semanais que foram feitas até hoje e de todas as outras que estão por vir.<br><br> <b>Com resumo em PDF e acesso ao bloco de notas do Pedro.</b></p>
+						</div>
+						<figure><img src="img/vendas05-23/mockup-lives.webp?2023080220013" alt=""></figure>
+					</div><!-- centro-->
+				</li>
+				<li>
+					<div class="centro">
+						<figure><img src="img/vendas05-23/mockup-lives-comunitarias.webp?2023080220013" alt=""></figure>
+						<div class="texto">
+							<h2>Lives comunitárias:</h2>
+							<h3>A experiência dos que estão no campo de batalha.</h3>
+							<p>Toda semana, uma live comunitária com um aluno ou especialista sobre estratégias para nichos específicos, produtividade, ferramentas e muito mais.</p>
+							<ul>
+								<li><span class="mais">e muito mais</span></li>
+								<li><img src="img/vendas05-23/leandroLadeira.webp?2023080220013" alt=""><span class="alt">Leandro Ladeira</span></li>
+								<li><img src="img/vendas05-23/stella.webp?2023080220013" alt=""><span class="alt">Stella Saderio</span></li>
+								<li><img src="img/vendas05-23/lucasRenault.webp?2023080220013" alt=""><span class="alt">Lucas Renault</span></li>
+								<li><img src="img/vendas05-23/jota.webp?2023080220013" alt=""><span class="alt">Joel Jota</span></li>
+								<li><img src="img/vendas05-23/wendell.webp?2023080220013" alt=""><span class="alt">Wendell Carvalho</span></li>
+								<li><img src="img/vendas05-23/leandro.webp?2023080220013" alt=""><span class="alt">Leandro Aguiari</span></li>
+								<li><img src="img/vendas05-23/micha.webp?2023080220013" alt=""><span class="alt">Micha Menezes</span></li>
+								<li><img src="img/vendas05-23/hyeser.webp?2023080220013" alt=""><span class="alt">Hyeser Souza</span></li>
+							</ul>
+							<a href="https://pay.hotmart.com/R8719909E?off=t55qlt15&checkoutMode=10" target="_blank" class="cta"><b>FAZER MINHA INSCRIÇÃO NA COMUNIDADE</b></a>
+						</div>
+					</div><!-- centro-->
+				</li>
+				<li>
+					<div class="centro">
+						<div class="texto">
+							<h2>Acesse os conteúdos através do <b>portal exclusivo</b> ou no <b>app</b>.</h2>
+						</div>
+						<figure><img src="img/vendas05-23/mockup-portal-app.webp?2023080220013" alt=""></figure>
+					</div><!-- centro-->
+				</li>
+			</ul><!-- ul -->
+		</section><!-- onde acessar -->
+		<section class="trilhas">
+			<div class="centro">
+				<h2>Explore as trilhas que mais fazem sentido para você, no Portal de Conteúdo</h2>
+				<ul>
+					<li>
+						<img src="img/vendas05-23/trilhaLancamentos.webp?2023080220013" alt="">
+						<div class="texto">
+							<h3>Tráfego para <b>lançamentos</b></h3>
+							<span>16 aulas</span>
+						</div>
+					</li>
+					<li>
+						<img src="img/vendas05-23/trilhaNegocio.webp?2023080220013" alt="">
+						<div class="texto">
+							<h3>Como conseguir clientes e fazer do tráfego um <b>negócio</b></b></h3>
+							<span>10 aulas</span>
+						</div>
+					</li>
+					<li>
+						<img src="img/vendas05-23/trilhaLivesEssenciais.webp	?2023080220013" alt="">					
+						<div class="texto">
+							<h3>Lives <b>essenciais</b></h3>
+							<span>46 aulas</span>
+						</div>
+					</li>
+					<li>
+						<img src="img/vendas05-23/trilhaIniciante.webp?2023080220013" alt="">
+						<div class="texto">
+							<h3>Zero to hero (rota de estudos <b>Iniciantes</b>)</h3>
+							<span>22 aulas</span>
+						</div>
+					</li>
+					<li>
+						<img src="img/vendas05-23/trilhaLocais.webp?2023080220013" alt="">
+						<div class="texto">
+							<h3>Tráfego para <b>negócios locais</b></h3>
+							<span>8 aulas</span>
+						</div>
+					</li>
+					<li>
+						<img src="img/vendas05-23/trilhaEcommerce.webp?2023080220013" alt="">
+						<div class="texto">
+							<h3>Tráfego para <b>e-commerce</b></h3>
+							<span>14 aulas</span>
+						</div>
+					</li>
+					<li>
+						<img src="img/vendas05-23/trilhaJedi.webp?2023080220013" alt="">
+						<div class="texto">
+							<h3>produtividade nível <b>jedi</b></h3>
+							<span>8 aulas</span>
+						</div>
+					</li>
+					<li>
+						<img src="img/vendas05-23/trilhaConteudo.webp?2023080220013" alt="">
+						<div class="texto">
+							<h3>distribuição de <b>conteúdo</b></h3>
+							<span>9 aulas</span>
+						</div>
+					</li>
+				</ul>
+			</div><!-- centro -->
+		</section><!-- trilhas -->
+		<section class="certificado">
+			<div class="centro">
+				<div class="texto">
+					<h2>Torne-se um profissional certificado pela Comunidade Sobral.</h2>
+					<p>Tenha acesso a duas provas para testar seus conhecimentos, tirar as certificações SUBIDO de Meta e Google Ads e <b>se apresentar diante de todo o mercado com um dos selos mais respeitados do país quando o assunto é gestão de tráfego pago.</b></p>
+				</div>
+				<figure><img src="img/vendas05-23/certificados.webp?2023080220013" alt=""></figure>
+			</div><!-- centro -->
+		</section><!-- certificado -->
+		<section class="oferta">
+			<div class="centro">
+				<div class="texto">
+					<h2>Gestão de Tráfego que dá resultados.</h2>
+					<p>Tudo para você transformar anúncios em dinheiro e qualidade de vida - no menor tempo possível.</p>
+				</div>
+				<div class="box">					
+					<h2><img src="img/vendas05-23/logo.svg?2023080220013" alt=""></h2>
+					
+										
+						<p><span>R$ 500 DE DESCONTO</span><em>De <u>R$ 1997</u> por apenas</em><b>12x de R$ 145,85</b><i>ou R$ 1497 à vista</i><strong>com renovações de R$997/ano</strong></p>
+										
+					<a href="https://pay.hotmart.com/R8719909E?off=t55qlt15&checkoutMode=10" target="_blank" class="cta"><b>FAZER MINHA INSCRIÇÃO</b></a>
+					<span class="protecao">Compra 100% segura! Receba seu acesso imediatamente após confirmação do pagamento.</span>
+					<span class="metodos"></span>
+				</div>
+				<ul>
+					<li>Curso Subido de Tráfego</li>
+					<li>9 cursos complementares</li>
+					<li>Gravação de todas as lives</li>
+					<li>Lives comunitárias</li>
+					<li>Portal de conteúdo e app</li>
+					<li>Comunidade no Facebook</li>
+					<li>Contrate um Subido</li>
+					<li>Certificação de tráfego</li>
+					<li>Loja subido</li>
+				</ul>
+			</div><!-- centro -->
+		</section><!-- oferta -->
+		<section class="depoimentos">
+			<div class="centro">
+				<h2>Não precisa acreditar em mim. <em>Veja o que os membros dizem sobre a Comunidade Sobral.</em></h2>
+
+				
+				<div class="splide splideDepoimentos">
+					<div class="splide__track">
+						<ul class="splide__list">
+															<li class="splide__slide">	
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="YBLXgztvUqg">
+											<img src="https://img.youtube.com/vi/YBLXgztvUqg/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Gabriel Magalhães</h4>
+										<p>"Eu passei de ser um moleque de 18 anos ganhando R$0, querendo sair de casa, sem perspectiva do que fazer, pra um <b>moleque de 20 anos que fatura, em média, de R$20 mil a R$25 mil por mês só com tráfego pago.</b>"</p>
+									</div>
+								</div>
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="Sb5hkZEyCYQ">
+											<img src="https://img.youtube.com/vi/Sb5hkZEyCYQ/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Gabriel Ponciano</h4>
+										<p>"Quando eu entrei na Comunidade, eu fiz a meta de aumentar o faturamento da empresa [um supermercado] em 40%. <b>E eu encerrei 2022 com aproximadamente 80% de aumento no faturamento anual da empresa.</b>"</p>
+									</div>
+								</div>
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="wLB9ov7ZMCQ">
+											<img src="https://img.youtube.com/vi/wLB9ov7ZMCQ/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Priscila Guimarães</h4>
+										<p>"<b>Hoje eu ganho R$25 mil por mês.</b> [...] A Comunidade foi a salvação da minha vida. Se não fosse por ela, eu não teria pago o agiota, os clientes, as ações judiciais e eu não teria dado a volta por cima."</p>
+									</div>
+								</div>
+																</li>
+															<li class="splide__slide">	
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="k37EH1F2qgs">
+											<img src="https://img.youtube.com/vi/k37EH1F2qgs/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Cristina Reis</h4>
+										<p>"<b>Em 3 meses, ele saiu de um faturamento de R$15 mil para um de R$90 mil</b>, tendo, inclusive, que mexer na operação da cozinha dele, adquirindo novos equipamentos, como um forno novo, pra dar conta da demanda."</p>
+									</div>
+								</div>
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="3ZKy1m__svo">
+											<img src="https://img.youtube.com/vi/3ZKy1m__svo/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Leonardo Rocha</h4>
+										<p>"No meu segundo mês, eu já tinha dois clientes, cada um me pagando R$600. [...] <b>Sete ou nove meses depois, eu já estava ganhando R$10 mil/mês.</b> [...] Hoje eu ganho mais de 30x mais do que na época em que eu trabalhava na ótica."</p>
+									</div>
+								</div>
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="7OZJbCvLPKk">
+											<img src="https://img.youtube.com/vi/7OZJbCvLPKk/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Higor </h4>
+										<p>"<b>Eu vendi mais de R$2 milhões através do tráfego pago, depois de ser um subido</b>. Eu fazia os anúncios, agendava com os leads, chegava na empresa e fechava contrato."</p>
+									</div>
+								</div>
+																</li>
+															<li class="splide__slide">	
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="ozCwbK4_RMo">
+											<img src="https://img.youtube.com/vi/ozCwbK4_RMo/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>André Fortuna</h4>
+										<p>"Hoje eu consegui, no primeiro ano, em seis meses, <b>o meu carrinho, consegui comprar a minha casa, não tenho preocupação com o dinheiro.</b> E o mais importante é lá: consegui garantir o sucesso da minha família."</p>
+									</div>
+								</div>
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="VeEdP6ywjJY">
+											<img src="https://img.youtube.com/vi/VeEdP6ywjJY/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Vitor Alves</h4>
+										<p>"Isso foi tudo um processo desde dezembro, <b>e hoje eles não param de vender. Vendem todos os dias e hoje esse negócio não vive mais sem tráfego pago</b>, graças a Comunidade Sobral que me ajudou."</p>
+									</div>
+								</div>
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="AG_DAlfZFmw">
+											<img src="https://img.youtube.com/vi/AG_DAlfZFmw/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Sendy Lotito</h4>
+										<p>"<b>Hoje eu ganho entre R$10k e R$12k por mês</b>, tenho sempre uma lista de espera aqui comigo na parte da gestão de tráfego [...]. Hoje eu tenho uma profissão em que <b>a única variável para o meu sucesso é o meu esforço.</b>"</p>
+									</div>
+								</div>
+																</li>
+															<li class="splide__slide">	
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="2i4_kr-NT2E">
+											<img src="https://img.youtube.com/vi/2i4_kr-NT2E/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Pedro Monte</h4>
+										<p>"Eu usei muitos conhecimentos que tem no curso pra ecommerce e muitos que tem nas lives pra perpétuo. [...] <b>Daí deu muito certo, foi um ROI (Retorno Sobre o Investimento) de 10x.</b>"</p>
+									</div>
+								</div>
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="4L-42ImKTf8">
+											<img src="https://img.youtube.com/vi/4L-42ImKTf8/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Gabriel Machado</h4>
+										<p>"<b>Hoje eu tenho 6 meses de profissão, já atendi diversos clientes e a gente já tá tendo um faturamento de mais de R$10 mil</b> - coisa que há 6 meses era negativo. Saí da casa dos meus avós, hoje tô morando de frente pra praia…"</p>
+									</div>
+								</div>
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="sMB761T2Rx0">
+											<img src="https://img.youtube.com/vi/sMB761T2Rx0/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Felipe da Silva</h4>
+										<p>"<b>E ela falou: “olha, Felipe, você foi um anjo na minha vida, porque eu não tava vendendo nada, e hoje eu vendo todos os meses”.</b> [...] Foi ali que eu consegui sair de uma renda de R$350, que foi meu primeiro cliente, pra mais de R$5 mil."</p>
+									</div>
+								</div>
+																</li>
+															<li class="splide__slide">	
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="szC_hWKVnJI">
+											<img src="https://img.youtube.com/vi/szC_hWKVnJI/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Raphael Teixeira</h4>
+										<p>"Eu construí uma carteira sólida de clientes e, <b>nos últimos 4 meses, eu faturei mais de R$80 mil</b>. E tudo isso foi devido a uma decisão: entrar na Comunidade Sobral de Tráfego."</p>
+									</div>
+								</div>
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="M62mmHSb360">
+											<img src="https://img.youtube.com/vi/M62mmHSb360/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Walter Farias </h4>
+										<p>"Depois que entrei na Comunidade Sobral, comecei a fazer os anúncios, o tráfego pago, tudo pelo Facebook e pelo Instagram, <b>a gente já faturou mais de 5 milhões em vendas, foram mais de 30 apartamentos vendidos.</b>"</p>
+									</div>
+								</div>
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="JmiAtbYLk0w">
+											<img src="https://img.youtube.com/vi/JmiAtbYLk0w/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Lucas Reis</h4>
+										<p>"[...] <b>se eu somar o faturamento de toda minha família, não dá o que eu ganho aqui hoje</b>. Hoje eu consigo entrar num restaurante e não preciso olhar o lado direito do cardápio. A gente come bem, o que a gente quiser."</p>
+									</div>
+								</div>
+																</li>
+															<li class="splide__slide">	
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="wcxnOBZnfEw">
+											<img src="https://img.youtube.com/vi/wcxnOBZnfEw/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Ninna Sotta</h4>
+										<p>"[O curso] me deu uma nova profissão, um novo olhar, uma nova esperança de vida. [...] <b>Hoje, aos 65 anos, eu tenho uma agência de tráfego com vários clientes</b> onde eu consigo excelentes resultados."</p>
+									</div>
+								</div>
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="2mb8ub2evEE">
+											<img src="https://img.youtube.com/vi/2mb8ub2evEE/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Gustavo Peçanha</h4>
+										<p>"Já tive agência, já participei de uma agência onde o pré-requisito era ser membro da Comunidade Sobral de Tráfego, já fiz 6 em 7, já fiz 7 em 7. <b>E hoje eu sou gestor de tráfego da Francisca Jóias, o maior ecommerce de semijoias do Brasil.</b>"</p>
+									</div>
+								</div>
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="17ZNWxzG6Kc">
+											<img src="https://img.youtube.com/vi/17ZNWxzG6Kc/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Felipe Sotero</h4>
+										<p>"[...] entrei na Comunidade, a minha vida mudou drasticamente, quase que da noite pro dia, [...] porque não tem tanto tempo que eu presto serviços de tráfego [...]. <b>Hoje eu ganho mais de R$15 mil por mês.</b>"</p>
+									</div>
+								</div>
+																</li>
+															<li class="splide__slide">	
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="3xeHdYx-nFc">
+											<img src="https://img.youtube.com/vi/3xeHdYx-nFc/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Douglas Padial</h4>
+										<p>"Hoje eu tenho dignidade. <b>Hoje eu moro onde eu quero, eu tenho um filho com necessidades especiais, eu pago as clínicas que ele tem, que não são baratas, que são muito caras</b>; eu pago boas escolas para os meus filhos…"</p>
+									</div>
+								</div>
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="SoEey-I8Cn0">
+											<img src="https://img.youtube.com/vi/SoEey-I8Cn0/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Hiago Lemos</h4>
+										<p>"Eu tenho um carro novo, moro num lugar muito bom, <b>posso sair pra jantar com minha esposa na hora que eu quiser, eu posso viajar na hora que eu quiser</b>, eu encho o meu tanque toda semana."</p>
+									</div>
+								</div>
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="HUBS9rcS5sM">
+											<img src="https://img.youtube.com/vi/HUBS9rcS5sM/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Iago Rebouças</h4>
+										<p>"<b>Hoje eu já consigo faturar mais de R$10 mil por mês.</b> [...] A gestão de tráfego me trouxe várias coisas e momentos também com minha família, com as pessoas que eu gosto, atividades que eu gosto."</p>
+									</div>
+								</div>
+																</li>
+															<li class="splide__slide">	
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="Y1YXkh3vjrg">
+											<img src="https://img.youtube.com/vi/Y1YXkh3vjrg/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Caroline Licodiedoff</h4>
+										<p>"Eu saí de uma realidade onde eu tinha um celular todo quebrado, um Lenovo, e um notebook de 10 anos para um IPhone 13 e um Macbook Pro. <b>No ano de 2023, eu tenho 5 viagens programadas, e uma é internacional e outra é com os meus pais</b> (eles nunca viajaram de avião)."</p>
+									</div>
+								</div>
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="TgYkDShJEX0">
+											<img src="https://img.youtube.com/vi/TgYkDShJEX0/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Thiago Rodrivera</h4>
+										<p>"Eu acordava 5h da manhã, pegava ônibus, ficava 4h no ônibus (tanto de ida quanto de volta), chegava em casa 00:30, trabalhava num emprego que eu não gostava e ainda ganhava mal por isso. [...] <b>Hoje a gente já tem uma agência e fatura + de R$20 mil/mês.</b>"</p>
+									</div>
+								</div>
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="4Ak748vGFzc">
+											<img src="https://img.youtube.com/vi/4Ak748vGFzc/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Rafael Barbosa</h4>
+										<p>"É a gente poder olhar o carro que a gente sonhou e dizer: é possível. [...] <b>Minha vida financeira melhorou eu acho que, ao menos, uns 400% (40x)</b> em menos de dois anos."</p>
+									</div>
+								</div>
+																</li>
+															<li class="splide__slide">	
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="BzHSwDheBGo">
+											<img src="https://img.youtube.com/vi/BzHSwDheBGo/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Caroline Guimarães</h4>
+										<p>"<b>Meu nome é Carol, eu tenho 27 anos e hoje já faturo R$10 mil com a gestão de tráfego.</b> [...] Não é só sobre dinheiro, é também sobre o que você consegue fazer, se sentir capaz, todas as realizações, e até de poder ajudar outras pessoas."</p>
+									</div>
+								</div>
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="nyfy07vBZBY">
+											<img src="https://img.youtube.com/vi/nyfy07vBZBY/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>João Pedro Almeida</h4>
+										<p>"Foi e é o maior investimento que eu já fiz na minha vida, na minha família, nos meus amigos. E, desde que eu comecei, tem transformado a vida de cada uma das pessoas que estão ao meu redor. [...] <b>Grana realmente hoje eu posso falar que não é mais um problema na minha casa.</b>"</p>
+									</div>
+								</div>
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="vmsnXnjVFD0">
+											<img src="https://img.youtube.com/vi/vmsnXnjVFD0/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Rafael Barbalho</h4>
+										<p>"<b>Hoje eu sou um gestor que fatura 5 dígitos e os planos para o futuro são os melhores possíveis.</b> [...] Hoje em dia eu vou casar, eu vou ter a vida que eu sempre quis, porque eu comecei na gestão de tráfego, e eu acho que <b>o Pedro e a Comunidade têm tudo pra mudar a sua vida assim como mudou a minha.</b>"</p>
+									</div>
+								</div>
+																</li>
+															<li class="splide__slide">	
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="vl0bL47qXvU">
+											<img src="https://img.youtube.com/vi/vl0bL47qXvU/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Eduardo Rocha</h4>
+										<p>"<b>De um salário de 3 mil reais, para um faturamento de 15 mil reais/mês</b>, sim isso é possível, isso aconteceu comigo e eu vou falar um pouco para você."</p>
+									</div>
+								</div>
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="NerpuFqlFpc">
+											<img src="https://img.youtube.com/vi/NerpuFqlFpc/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Bruno Alves</h4>
+										<p>"Meu primeiro mês, consegui faturar 50% do que eu recebia como funcionário público. No segundo mês consegui superar meu salário em 2 mil reais. Atualmente, tenho 15 clientes, dou consultoria para duas agências de marketing, dou mentoria para três gestores iniciantes e to <b>faturando em volta de 3 vezes mais do que eu faturo como funcionário público.</b>"</p>
+									</div>
+								</div>
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="O-P17AF8wD0">
+											<img src="https://img.youtube.com/vi/O-P17AF8wD0/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Rafael Braznik</h4>
+										<p>"Há um ano atrás eu trabalhava de Uber e tinha uma dívida de 7 mil reais e tava a beira de uma depressão. <b>Hoje menos de um ano depois, sendo gestor de tráfego, faturo 10 mil reais por mês, paguei minhas dívidas, sai da depressão, sai da casa dos meus pais e eu posso trabalhar de qualquer lugar do mundo</b> e tudo isso graças ao Pedro e a comunidade Sobral de Tráfego."</p>
+									</div>
+								</div>
+																</li>
+															<li class="splide__slide">	
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="QZKN0uaSQww">
+											<img src="https://img.youtube.com/vi/QZKN0uaSQww/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Sebasthian Cruz</h4>
+										<p>"De lá para cá, nossa vida mudou bastante. Primeiro fiquei muito impactado com o valor que tem dentro da comunidade, as lives, material de apoio, as lives comunitárias, todas as perguntas já respondidas, <b>eu quase não fiz pergunta por quê já tinha tudo lá. Foi material suficiente para eu transformar minha vida e a vida da minha família.</b>"</p>
+									</div>
+								</div>
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="u5wmNMXiqqo">
+											<img src="https://img.youtube.com/vi/u5wmNMXiqqo/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Diego Limeira</h4>
+										<p>"A comunidade Sobral transformou minha vida. Há exatamente um ano atrás, eu tava trabalhando, fazia uns biquinhos, eu nem tinha clareza do que eu queria fazer ainda, eu ganhei 900 reais naquele mês, eu lembro até hoje. <b>Um ano depois eu to ganhando mais de 10 vezes do que isso.</b>"</p>
+									</div>
+								</div>
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="LIwS69qoakQ">
+											<img src="https://img.youtube.com/vi/LIwS69qoakQ/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Andre Nunes</h4>
+										<p>"<b>Eu já paguei a Comunidade Sobral, já paguei o computador, já faço lançamento, já tenho cliente fixo. Cara, coisa de menos 5 meses.</b> Se você ainda tá com dúvida se vai entrar na Comunidade Sobral, se você quer viver de gestão de tráfego, se você acredita nisso, essa é sua hora, entre na Comunidade Sobral."</p>
+									</div>
+								</div>
+																</li>
+															<li class="splide__slide">	
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="HBFS_z7F6DE">
+											<img src="https://img.youtube.com/vi/HBFS_z7F6DE/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Matheus Mello</h4>
+										<p>"Eu sabia quase nada de tráfego e eu consegui sair do zero. <b>Só o ano passado eu consegui investir mais de 4 milhões, gerenciando a conta dos meus clientes, faturamento mais de 15 milhões.</b> A Comunidade Sobral foi o melhor investimento que eu fiz na vida, até hoje."</p>
+									</div>
+								</div>
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="t3xfsPWr8Es">
+											<img src="https://img.youtube.com/vi/t3xfsPWr8Es/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Lucas Gorgal</h4>
+										<p>"<b>Você faz uma pergunta na comunidade, várias pessoas respondem, as vezes até o Sobral responde sua pergunta.</b> É absurdo tudo que ele me entrega."</p>
+									</div>
+								</div>
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="GsSVb63CfLo">
+											<img src="https://img.youtube.com/vi/GsSVb63CfLo/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Augusto Bousfield</h4>
+										<p>"Hoje eu tenho mais de 10 clientes, consigo trabalhar de dentro de casa, sou meu próprio chefe e é diferente quando a gente trabalha com o que a gente ama. <b>Eu ganho 4 vezes mais do que eu ganhava antes e eu to apenas no começo!</b>"</p>
+									</div>
+								</div>
+																</li>
+															<li class="splide__slide">	
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="y-1-aiUlUo8">
+											<img src="https://img.youtube.com/vi/y-1-aiUlUo8/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Renato Crespo</h4>
+										<p>"Hoje, depois de toda essa energia que o Sobral consegue passar em cada conteúdo que ele publica e o pessoal da comunidade, <b>eu consigo lidar muito bem com minha sindrome do impostor, consigo crer em mim, e to dando gás nos meus projetos.</b>"</p>
+									</div>
+								</div>
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="n4j8Vdqjii0">
+											<img src="https://img.youtube.com/vi/n4j8Vdqjii0/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Rennan Mezabarba</h4>
+										<p>"O curso que a gente vendeu gerando tráfego, <b>geramos uma renda de 60 mil reais</b> e esse valor, é um dinheiro que eu não esperaria ganhar nunca[...]. Se a comunidade Sobral funciona, não tenho a menor dúvida."</p>
+									</div>
+								</div>
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="3ExLSDvepP4">
+											<img src="https://img.youtube.com/vi/3ExLSDvepP4/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Jonathan Leão</h4>
+										<p>"Meu nome é Jonathan Leão, faz 3 anos que faço parte da Comunidade Sobral e hoje sou Gestor de Tráfego, <b>sou CEO da Next Level,e posso dizer com todas a letras, foi o maior e melhor investimento que fiz em toda minha vida.</b>"</p>
+									</div>
+								</div>
+																</li>
+															<li class="splide__slide">	
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="JbJzkZmzxIY">
+											<img src="https://img.youtube.com/vi/JbJzkZmzxIY/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Lucas Urquiza</h4>
+										<p>"A gente descobre que, o que o Sobral fala na aula é verdade: <b>A Comunidade não é só sobre o conteúdo, sobre o que ele fala, só sobre tráfego, é uma filosofia.</b>"</p>
+									</div>
+								</div>
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="jpE8BP59_-0">
+											<img src="https://img.youtube.com/vi/jpE8BP59_-0/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Laís Canonico</h4>
+										<p>"Meu esposo conheceu o Pedro Sobral, começou a acompanhar as lives dele e na abertura da comunidade em outubro [...], ele sugeriu que na verdade eu fizesse o curso, por que ele achava que tinha tudo a ver comigo e realmente tinha mesmo. <b>Eu comecei a fazer o curso, me apaixonei por gestão de tráfego, to muito encantada com tudo que tenho aprendido.</b>"</p>
+									</div>
+								</div>
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="kxt0ACZTdxk">
+											<img src="https://img.youtube.com/vi/kxt0ACZTdxk/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Eufranor Filho</h4>
+										<p>"Eu não achei em nenhum canto o que eu aprendi com o Sobral durante essas lives gratuitas que ele passa. <b>Se o conteúdo gratuito do cara é assim, imagina a comunidade.</b>"</p>
+									</div>
+								</div>
+																</li>
+															<li class="splide__slide">	
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="o4YHkptptkU">
+											<img src="https://img.youtube.com/vi/o4YHkptptkU/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Paulo Knabben</h4>
+										<p>"<b>Já aprendi mais em uma live, do que já aprendi nos demais cursos.</b> E não to falando da boca pra fora! É verdade!"</p>
+									</div>
+								</div>
+																<div class="depoimento">
+									<div class="video">
+										<div class='videoWrapper'>
+										</div>
+										<div class="thumb" embed="RY8pS3gEnho">
+											<img src="https://img.youtube.com/vi/RY8pS3gEnho/hqdefault.jpg" alt="thumbnail">
+										</div>
+									</div>
+									<div class="texto">
+										<h4>Leonardo Siqueira</h4>
+										<p>"Através das aulas gratuitas, de um mês pro outro, quando eu comecei a aplicar o que eu tava aprendendo <b>a gente já conseguiu dobrar o faturamento da nossa hamburgueria no aplicativo próprio.</b>"</p>
+									</div>
+								</div>
+																</li>
+																				
+						</ul>
+					</div>
+				</div><!-- splide -->
+			</div><!-- centro -->
+		</section><!-- depoimentos -->
+		<section class="garantia">
+			<div class="centro">
+				<figure><img src="img/vendas05-23/selo-garantia.webp?2023080220013" alt="Selo Garantia"></figure>
+				<h2>Risco zero com a garantia de 7 dias.</h2>
+				<p><b>Assim que entrar na Comunidade Sobral, você terá acesso imediato a todos os conteúdos do Portal e ao grupo no Facebook.</b><br><br>
+
+				Durante 7 dias a partir da compra, você poderá consumir todo conteúdo que quiser e interagir com a comunidade. Se dentro desse período você se arrepender da compra, <b>basta pedir o reembolso que devolveremos cada centavo, sem ressentimentos.</b></p>
+			</div><!-- centro -->
+		</section><!-- garantia -->
+		<section class="sobre">
+			<div class="centro">
+				<h2>Quem é <b>Pedro Sobral</b>?</h2> 
+				<p>Responsável por revolucionar o mercado no país com suas aulas semanais, Pedro Sobral já gerenciou mais de R$300 milhões de reais em anúncios online e é <b>criador da maior comunidade de tráfego do Brasil, com mais de 37 mil membros ativos.</b><br><br>
+
+				Nos últimos 8 anos, <b>trabalhou com grandes players do mundo digital</b> (pessoas como Nathalia Arcuri, Wendell Carvalho, Karina Peloi, Gerônimo Theml, Mairo Vergara, Priscila Zillo, Erico Rocha, dentre muitos outros) e foi a personalidade que mais contribuiu para o cenário da gestão de tráfego no país, ajudando a amadurecer o mercado e formar bons profissionais através de seus inúmeros testes e aulas.</p>
+			</div><!-- centro -->
+		</section><!-- sobre -->
+		<section class="faq">
+			<div class="centro">
+				<div class="atendimento">
+					<h2>Ficou com alguma dúvida?</h2>
+					<p>Confira as respostas para as perguntas frequentes ou entre em contato conosco:</p>
+					<ul class="redes">
+						<li class="whatsapp">
+							<span class="icone"></span>
+							<h3>ATENDIMENTO POR <b>WHATSAPP</b></h3>
+							<p>Clique no número: <a href="https://wa.me/5543991168407" target="_blank">(43) 99116-8407</a></p>
+						</li>
+						<li class="email">
+							<span class="icone"></span>
+							<h3>ATENDIMENTO POR <b>E-mail</b></h3>
+							<p>Mande um e-mail agora para <a href="mailto:falasubido@pedrosobral.com.br" target="_blank">falasubido@pedrosobral.com.br</a></p>
+						</li>
+						<li class="chat">
+							<span class="icone"></span>
+							<h3>ATENDIMENTO POR <b>CHAT</b></h3>
+							<p>Clique no <b>ícone de chat </b>localizado no canto da página.</p>
+						</li>
+					</ul>
+					<a href="https://pay.hotmart.com/R8719909E?off=t55qlt15&checkoutMode=10" target="_blank" class="cta"><b>QUERO GARANTIR MINHA VAGA AGORA!</b></a>
+				</div>
+				<ul class="duvidas">
+					<li class="ativo">
+						<h3>Quais são as formas de pagamento?</h3>
+						<p>Você pode fazer sua inscrição na Comunidade Sobral com pagamento em até 12x no cartão, boleto à vista, PIX, saldo da Hotmart, Paypal, SamsungPay, GooglePay e Cartão Virtual Caixa.<br><br>
+						Se ainda assim não houver uma forma de pagamento adequada para você, entre em contato com a nossa equipe para vermos a melhor forma de te ajudar.</p>
+					</li>
+					<li>
+						<h3>Quando e onde vai chegar meu acesso?</h3>
+						<p>Você receberá acesso total a todos os conteúdos e recursos da Comunidade imediatamente após a confirmação do pagamento.<br><br>
+
+						O acesso chegará no seu email, junto com toda explicação que você precisa para fazer seu login. Por isso, no ato da compra, insira um email válido e ao qual você tem acesso.</p>
+					</li>
+					<li>
+						<h3>Por quanto tempo dura meu acesso?</h3>
+						<p>Seu acesso à Comunidade dura 1 ano. Após esse período, você pode renovar seu acesso por mais um ano com 50% de desconto no valor da inscrição, pagando apenas R$997.<br><br>
+
+						A Comunidade está em constante melhoria. Isso significa que, um ano após sua inscrição, você terá um produto muito melhor em mãos — e, para que possamos continuar fazendo isso, a Comunidade é uma assinatura anual. =D</p>
+					</li>
+					<li>
+						<h3>Posso fazer o curso pelo celular?</h3>
+						<p>Sim, o Portal de Conteúdo pode ser acessado em qualquer dispositivo que tenha acesso à internet. Isso inclui tablet, celular, desktop, notebook e Smart TV. Mas nós recomendamos fortemente que você acesse e consuma o conteúdo a partir de um desktop ou notebook (pois só é possível fazer tráfego pago de maneira eficiente a partir destes dispositivos).</p>
+					</li>
+					<li>
+						<h3>E se eu comprar e achar que não é para mim?</h3>
+						<p>Assim que entrar na Comunidade Sobral, você terá acesso imediato a todos os conteúdos do Portal e ao grupo no Facebook.<br><br>
+
+						Durante 7 dias a partir da compra, você poderá consumir todo conteúdo que quiser e interagir com a comunidade.<br><br>
+
+						Se dentro desse período você achar que ser um subido não é pra você, basta pedir o reembolso que devolveremos cada centavo, sem ressentimento. =D</p>
+					</li>
+					<li>
+						<h3>Se eu comprar, posso adicionar mais uma pessoa na Comunidade?</h3>
+						<p>Não. Uma compra garante apenas um acesso à Comunidade.</p>
+					</li>
+					<li>
+						<h3>Serve para lançamentos, ecommerce, negócios locais, PLR, afiliado e dropshipping?</h3>
+						<p>SIM! A Comunidade vai te ensinar tudo que você precisa para anunciar em todos estes cenários e quaisquer outros que você possa imaginar.<br><br>
+
+						Isso, nem de longe, quer dizer que a Comunidade é um curso generalista, que não se aprofundará em nenhum desses modelos de receita.<br><br>
+
+						Além de te dar uma base sólida e universal em tráfego, nós temos várias (e estamos sempre acrescentando) aulas específicas para diferentes nichos e negócios.<br><br>
+
+						Sem falar que você ainda recebe acesso ao nosso grupo de membros no Facebook, que conta com 40 mil membros mega ativos e dispostos a te ajudar e compartilhar as estratégias que você precisa.</p>
+					</li>
+					<li>
+						<h3>Serve para iniciantes? E para avançados?</h3>
+						<p>Sim! A Comunidade tem aulas, recursos e trilhas que te trarão mais resultados independentemente do seu estágio profissional.<br><br>
+
+						99,999% dos gestores de tráfego de sucesso no Brasil estão dentro da Comunidade — a maioria desde o início da jornada.<br><br>
+
+						Por que com você seria diferente?</p>
+					</li>
+					<li>
+						<h3>Eu não tenho dinheiro para investir, serve para mim?</h3>
+						<p>Caso você queira PRESTAR SERVIÇOS de Gestão de Tráfego, não será necessário investir nada para veicular os anúncios: toda a verba de tráfego deverá ser desembolsada pelos seus CLIENTES.<br><br>
+
+						Se você deseja fazer tráfego para o próprio negócio e tem pouca verba, a Comunidade também é para você. O tráfego, se feito da forma correta, é uma ótima maneira de aumentar seu dinheiro disponível, inclusive.<br><br>
+
+						No entanto, esteja ciente que anunciar online envolve riscos e que nós não garantimos retorno financeiro.</p>
+					</li>
+				</ul>
+			</div><!-- centro -->			
+			<div class="numerosOficiais">
+				<h4>Números de Whatsapp oficiais dos nossos representantes de vendas:</h4>
+				<p>43-99148-4916 <em>|</em> 43-99197-7501 <em>|</em> 43-99140-8597 <em>|</em> 43-99164-7279 <em>|</em> 43-99183-1532 <em>|</em> 43-99130-1334</p>
+				<span>Não confie em nenhum contato que não esteja aqui.</span>
+			</div>
+		</section><!-- faq -->
+	</main>
+	<footer>
+		<div class="centro">
+			<p>Copyright © 2023 Pedro Sobral. Todos os direitos reservados.</p>
+			<div class="links">
+				<a href="https://comunidade.pedrosobral.com.br/termos/politica-de-privacidade" target="_blank">Política de Privacidade</a>
+			</div>
+		</div>
+	</footer>
+	
+	<style type='text/css'>
+	.embeddedServiceHelpButton .helpButton .uiButton {
+		background-color: #005290;
+		font-family: "Poppins", sans-serif;
+	}
+	.embeddedServiceHelpButton .helpButton .uiButton:focus {
+		outline: 1px solid #005290;
+	}
+</style>
+
+</body>
