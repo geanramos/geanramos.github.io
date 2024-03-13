@@ -1,0 +1,96 @@
+# BEGIN YOURLS
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteCond %{THE_REQUEST} /([^.]+)\.php [NC]
+RewriteRule ^ /%1 [NC,L,R]
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^ %{REQUEST_URI}.php [NC,L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^.*$ /yourls-loader.php [L]
+RewriteEngine On
+RewriteRule ^channel/([A-Za-z0-9_-]+)$ channel/?c=$1 [L]
+RewriteRule ^receita/([A-Za-z0-9_-]+)/$ receita/?url=$1 [L]
+</IfModule>
+# END YOURLS
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^receita/(.*)/$ /receita/?url=$1 [L]
+</IfModule>
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^shorts/(.*)$ /shorts/?v=$1 [L]
+RewriteRule ^shorts/([A-Za-z0-9_-]+)/$ shorts/?v=$1 [L]
+</IfModule>
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^embed/(.*)$ /embed/?v=$1 [L]
+RewriteRule ^embed/([A-Za-z0-9_-]+)/$ embed/?v=$1 [L]
+</IfModule>
+
+ErrorDocument 400 https://gean.me/404.html?erro=400
+ErrorDocument 401 https://gean.me/404.html?erro=401
+ErrorDocument 403 https://gean.me/404.html?erro=403
+ErrorDocument 404 https://gean.me/404.html?erro=404
+ErrorDocument 500 https://gean.me/404.html?erro=500
+ErrorDocument 503 https://gean.me/404.html?erro=503
+
+# Para você retirar o “.php” da sua URL, basta inserir as seguintes linhas.
+# php
+
+
+# EXPIRES CACHING
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresDefault "access plus 6 months"
+AddType application/vnd.ms-fontobject .eot
+AddType application/x-font-ttf .ttf
+AddType application/x-font-opentype .otf
+AddType application/x-font-woff .woff
+AddType image/svg+xml .svg
+ExpiresByType application/vnd.ms-fontobject "access plus 1 year"
+ExpiresByType application/x-font-ttf "access plus 1 year"
+ExpiresByType application/x-font-opentype "access plus 1 year"
+ExpiresByType application/x-font-woff "access plus 1 year"
+ExpiresByType image/svg+xml "access plus 1 year"
+ExpiresByType text/html "access plus 3 weeks"
+ExpiresByType text/css "access plus 3 weeks"
+ExpiresByType text/javascript "access plus 3 weeks"
+ExpiresByType application/javascript "access plus 1 month"
+ExpiresByType application/x-javascript "access plus 1 month"
+ExpiresByType image/gif "access plus 6 months"
+ExpiresByType image/png "access plus 6 months"
+ExpiresByType image/jpg "access plus 6 months"
+ExpiresByType image/jpeg "access plus 6 months"
+ExpiresByType application/pdf "access plus 1 year"
+ExpiresByType application/x-shockwave-flash "access plus 1 year"
+ExpiresByType image/x-icon "access plus 1 year"
+ExpiresByType application/xhtml+xml "access plus 1 hour"
+</IfModule>
+# END EXPIRES CACHING
+
+# BEGIN Cache-Control Headers
+<ifModule mod_headers.c>
+<filesMatch "\.(ico|jpe?g|png|gif|swf)$">
+Header set Cache-Control "public"
+</filesMatch>
+<filesMatch "\.(css)$">
+Header set Cache-Control "public"
+</filesMatch>
+<filesMatch "\.(js)$">
+Header set Cache-Control "private"
+</filesMatch>
+<filesMatch "\.(x?html?|php)$">
+Header set Cache-Control "private, must-revalidate"
+</filesMatch>
+</ifModule>
+# END Cache-Control Headers
