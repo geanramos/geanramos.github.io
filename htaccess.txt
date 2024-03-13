@@ -9,16 +9,23 @@ RewriteRule ^ %{REQUEST_URI}.php [NC,L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^.*$ /yourls-loader.php [L]
-RewriteEngine On
-RewriteRule ^channel/([A-Za-z0-9_-]+)$ channel/?c=$1 [L]
-RewriteRule ^receita/([A-Za-z0-9_-]+)/$ receita/?url=$1 [L]
 </IfModule>
 # END YOURLS
+
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^receita/(.*)/$ /receita/?url=$1 [L]
+RewriteRule ^receita/([A-Za-z0-9_-]+)/$ receita/?url=$1 [L]
+</IfModule>
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^channel/(.*)$ /channel/?c=$1 [L]
+RewriteRule ^channel/([A-Za-z0-9_-]+)$ channel/?c=$1 [L]
 </IfModule>
 
 <IfModule mod_rewrite.c>
