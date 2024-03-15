@@ -628,8 +628,8 @@ echo $html;
     </footer>
     <!-- end footer -->
 
-    <script src="https://menca.netlify.app/js/scripts.js"></script>
-    <script src="https://menca.netlify.app/js/common.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/geanramos/files/scripts.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/geanramos/files/common.js"></script>
 	<a id="geanramos-com-br-whatsapp-button" target="_blank" href="https://api.whatsapp.com/send?text=<?php echo $title; ?> https://gean.me/watch?v=<?php echo $videoId; ?>&utm_source=whatsapp">
 <div class="rwb-tooltip">APERTE AQUI!</div>
 <img src="https://cdn.jsdelivr.net/gh/geanramos/pudimperfeito/extra/whatsapp-icon.svg">
