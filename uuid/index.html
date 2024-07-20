@@ -1,0 +1,37 @@
+<!--
+
+><(((('>
+╔═╗╔═╗╔═╗╔╗╔ ╔╦╗╔═╗
+║ ╦║╣ ╠═╣║║║ ║║║║╣ 
+╚═╝╚═╝╩ ╩╝╚╝o╩ ╩╚═╝
+-->
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerador de UUID v4</title>
+    <style> body { font-family: monospace, sans-serif; display: flex; justify-content: center; align-items: center; height: 100vh; background-color: #000000; background-image: url('matrix.gif'); background-repeat: repeat-x; margin: 0; } .container { text-align: center; background: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); } h1 { color: #333; } button { font-family: monospace; background-color: #4CAF50; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 20px 0; cursor: pointer; border: none; border-radius: 5px; transition: background-color 0.3s ease; } button:hover { background-color: #45a049; } #uuidDisplay { font-size: 18px; color: #555; word-wrap: break-word; text-transform: uppercase; } </style>
+</head>
+<body>
+    <div class="container">
+        <h1>GERADOR - UUID v4</h1>
+        <button id="generateBtn">CRIAR UUID</button>
+        <p id="uuidDisplay"></p>
+    </div>
+
+    <script>
+        function generateUUIDv4() {
+            return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
+                var r = Math.random() * 16 | 0, v = c === 'x' ? r : (r & 0x3 | 0x8);
+                return v.toString(16);
+            });
+        }
+
+        document.getElementById('generateBtn').addEventListener('click', function() {
+            var uuid = generateUUIDv4();
+            document.getElementById('uuidDisplay').innerText = uuid;
+        });
+    </script>
+</body>
+</html>
