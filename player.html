@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maior Mercado de Peixe do Japão: Tsukiji Fish Market - Dois de Nós Tokyo</title>
+    <link rel="stylesheet" href="./plyr.css" />
+	<!--<link rel="stylesheet" href="https://cdn.plyr.io/3.6.8/plyr.css" />-->
+	<style>html {overflow: hidden;}body {font: 12px Roboto, Arial, sans-serif; background-color: #000; color: #fff; height: 100%; width: 100%; overflow: hidden; position: absolute; margin: 0; padding: 0;}#player {width: 100%; height: 100%;}h1 {text-align: center; color: #fff;}h3 {margin-top: 6px; margin-bottom: 3px;}.player-unavailable {position: absolute; top: 0; left: 0; right: 0; bottom: 0; padding: 25px; font-size: 13px; background: url(https://www.youtube.com/embed/img/meh7.png) 50% 65% no-repeat;}.player-unavailable .message {text-align: left; margin: 0 -5px 15px; padding: 0 5px 14px; border-bottom: 1px solid #888; font-size: 19px; font-weight: normal;}.player-unavailable a {color: #167ac6; text-decoration: none;}</style>
+</head>
+<body>
+
+    <!-- Player de vídeo do YouTube -->
+    <div class="plyr__video-embed" id="player">
+        <iframe
+            src="https://www.youtube.com/watch?v=Mrgx1WqCcZQ?origin=https://geanramos.com.br"
+            allowfullscreen
+            allowtransparency
+            allow="autoplay"
+        ></iframe>
+    </div>
+
+    <script src="./plyr.polyfilled.js"></script>
+	<!--<script src="https://cdn.plyr.io/3.6.8/plyr.polyfilled.js"></script>-->
+    <script>
+        // Inicializando o Plyr
+        const player = new Plyr('#player');
+    </script>
+
+</body>
+</html>
